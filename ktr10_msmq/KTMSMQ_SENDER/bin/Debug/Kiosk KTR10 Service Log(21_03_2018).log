@@ -1,0 +1,73 @@
+11:20:03 -> 11:20:03>>Logger created.
+11:20:03 -> Properties successfully retrieved from the registry.
+11:20:03 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+11:20:03 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+11:20:03 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+11:20:03 -> KTR10 Open First Check Attempt.
+11:20:27 -> 11:20:27>>Failed return -43
+
+11:21:43 -> 11:21:43>>Service stopped.
+12:36:56 -> 12:36:56>>Logger created.
+12:36:56 -> Properties successfully retrieved from the registry.
+12:36:56 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+12:36:56 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+12:36:57 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+12:36:57 -> KTR10 Open First Check Attempt.
+12:37:09 -> 12:37:09>>CMND101801
+12:37:09 -> 12:37:09>>WFS_INF_CIM_GET_ITEMS_INFO: return :-39		General Error WFS_ERR_NOT_STARTED
+
+12:37:32 -> 12:37:32>>CMND101801
+12:37:32 -> 12:37:32>>WFS_INF_CIM_GET_ITEMS_INFO: return :-39		General Error WFS_ERR_NOT_STARTED
+
+12:38:48 -> 12:38:48>>CMND101801
+12:38:48 -> 12:38:48>>WFS_INF_CIM_GET_ITEMS_INFO: return :-39		General Error WFS_ERR_NOT_STARTED
+
+03:00:08 -> 03:00:08>>Logger created.
+03:00:08 -> Properties successfully retrieved from the registry.
+03:00:08 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+03:00:08 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+03:00:08 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+03:00:08 -> KTR10 Open First Check Attempt.
+03:00:22 -> 03:00:22>>Failed return -43
+
+03:00:32 -> 03:00:32>>WFS_INF_CIM_STATUS:
+
+03:00:32 -> 03:00:32>>CMND100300
+03:00:32 -> 03:00:32>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+03:00:42 -> 03:00:42>>CMND100701
+03:00:42 -> 03:00:42>>WFS_CMD_CIM_CASH_IN_START:
+return -39
+		General Error WFS_ERR_NOT_STARTED
+
+03:00:52 -> 03:00:52>>WFS_INF_CIM_STATUS:
+
+03:00:52 -> 03:00:52>>CMND100300
+03:00:52 -> 03:00:52>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+03:01:02 -> 03:01:02>>Service stopped.
+03:29:17 -> 03:29:17>>Logger created.
+03:29:17 -> Properties successfully retrieved from the registry.
+03:29:17 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+03:29:17 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+03:29:17 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+03:29:17 -> KTR10 Open First Check Attempt.
+03:29:18 -> 03:29:18>>String cannot be of zero length.
+Parameter name: oldValue
+03:29:28 -> 03:29:28>>String cannot be of zero length.
+Parameter name: oldValue
+03:29:38 -> 03:29:38>>String cannot be of zero length.
+Parameter name: oldValue
+03:29:48 -> 03:29:48>>Service stopped.

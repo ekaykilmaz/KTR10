@@ -1,0 +1,1666 @@
+11:40:59 -> 11:40:59>>Logger created.
+11:40:59 -> Properties successfully retrieved from the registry.
+11:40:59 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+11:40:59 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+11:40:59 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+11:40:59 -> KTR10 Open First Check Attempt.
+11:41:00 -> 11:41:00>>CMND100501
+11:41:00 -> 11:41:00>>WFS_CMD_CIM_OPEN_SHUTTER:
+
+WFS_CMD_CIM_CLOSE_SHUTTER return  -39
+		General Error WFS_ERR_NOT_STARTED
+
+11:41:26 -> 11:41:26>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+11:42:18 -> 11:42:18>>CMND100400
+11:42:18 -> 11:42:18>>WFS_CMD_CIM_OPEN_SHUTTER:
+
+WFS_CMD_CDM_OPEN_SHUTTER return  0
+
+11:42:22 -> 11:42:22>>CMND100700
+11:42:22 -> 11:42:22>>WFS_CMD_CIM_CASH_IN_START:
+WFS_CMD_CIM_CASH_IN_START return 0
+
+11:42:24 -> 11:42:24>>CMND100400
+11:42:24 -> 11:42:24>>WFS_CMD_CIM_OPEN_SHUTTER:
+
+WFS_CMD_CDM_OPEN_SHUTTER return  0
+
+11:42:33 -> 11:42:33>>CMND100500
+11:42:33 -> 11:42:33>>WFS_CMD_CIM_OPEN_SHUTTER:
+
+WFS_CMD_CIM_CLOSE_SHUTTER return  0
+
+11:42:50 -> 11:42:50>>CMND100800
+11:42:50 -> 11:42:50>>WFS_CMD_CIM_CASH_IN:
+WFS_CMD_CIM_CASH_IN return 0
+
+11:44:26 -> 11:44:26>>CMND100400
+11:44:26 -> 11:44:26>>WFS_CMD_CIM_OPEN_SHUTTER:
+
+WFS_CMD_CDM_OPEN_SHUTTER return  0
+
+11:44:53 -> 11:44:53>>CMND100500
+11:44:53 -> 11:44:53>>WFS_CMD_CIM_OPEN_SHUTTER:
+
+WFS_CMD_CIM_CLOSE_SHUTTER return  0
+
+11:45:20 -> 11:45:20>>CMND100400
+11:45:20 -> 11:45:20>>WFS_CMD_CIM_OPEN_SHUTTER:
+
+WFS_CMD_CDM_OPEN_SHUTTER return  0
+
+11:45:28 -> 11:45:28>>CMND100500
+11:45:28 -> 11:45:28>>WFS_CMD_CIM_OPEN_SHUTTER:
+
+WFS_CMD_CIM_CLOSE_SHUTTER return  0
+
+11:45:49 -> 11:45:49>>CMND100800
+11:45:49 -> 11:45:49>>WFS_CMD_CIM_CASH_IN:
+WFS_CMD_CIM_CASH_IN return 0
+
+11:46:06 -> 11:46:06>>CMND100400
+11:46:06 -> 11:46:06>>WFS_CMD_CIM_OPEN_SHUTTER:
+
+WFS_CMD_CDM_OPEN_SHUTTER return  0
+
+11:46:21 -> 11:46:21>>CMND100500
+11:46:21 -> 11:46:21>>WFS_CMD_CIM_OPEN_SHUTTER:
+
+WFS_CMD_CIM_CLOSE_SHUTTER return  0
+
+11:54:16 -> 11:54:16>>CMND101100
+11:54:16 -> 11:54:16>>WFS_INF_CIM_CASH_IN_STATUS:
+WFS_INF_CIM_CASH_IN_STATUS return :0
+	wStatus = 2
+	usNumOfRefused = 2
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+11:57:02 -> 11:57:02>>CMND100400
+11:57:02 -> 11:57:02>>WFS_CMD_CIM_OPEN_SHUTTER:
+
+WFS_CMD_CDM_OPEN_SHUTTER return  0
+
+11:57:21 -> 11:57:21>>CMND100500
+11:57:21 -> 11:57:21>>WFS_CMD_CIM_OPEN_SHUTTER:
+
+WFS_CMD_CIM_CLOSE_SHUTTER return  0
+
+11:57:34 -> 11:57:34>>CMND100800
+11:57:34 -> 11:57:34>>WFS_CMD_CIM_CASH_IN:
+WFS_CMD_CIM_CASH_IN return 0
+
+11:58:07 -> 11:58:07>>CMND100400
+11:58:07 -> 11:58:07>>WFS_CMD_CIM_OPEN_SHUTTER:
+
+WFS_CMD_CDM_OPEN_SHUTTER return  0
+
+11:58:17 -> 11:58:17>>CMND100500
+11:58:17 -> 11:58:17>>WFS_CMD_CIM_OPEN_SHUTTER:
+
+WFS_CMD_CIM_CLOSE_SHUTTER return  0
+
+11:58:21 -> 11:58:21>>CMND101100
+11:58:21 -> 11:58:21>>WFS_INF_CIM_CASH_IN_STATUS:
+WFS_INF_CIM_CASH_IN_STATUS return :0
+	wStatus = 2
+	usNumOfRefused = 3
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+12:03:40 -> 12:03:40>>Logger created.
+12:03:40 -> Properties successfully retrieved from the registry.
+12:03:40 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+12:03:40 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+12:03:40 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+12:03:40 -> KTR10 Open First Check Attempt.
+12:03:41 -> 12:03:41>>WFS_INF_CIM_STATUS:
+
+12:03:41 -> 12:03:41>>CMND100300
+12:03:41 -> 12:03:41>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+12:03:43 -> 12:03:43>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+12:04:03 -> 12:04:03>>CMND100400
+12:04:03 -> 12:04:03>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:04:34 -> 12:04:34>>CMND100500
+12:04:34 -> 12:04:34>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:04:41 -> 12:04:41>>CMND101100
+12:04:41 -> 12:04:41>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 3
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+12:05:28 -> 12:05:28>>CMND101000
+12:05:28 -> 12:05:28>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return 0
+
+12:05:36 -> 12:05:36>>CMND100400
+12:05:36 -> 12:05:36>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:05:51 -> 12:05:51>>CMND100500
+12:05:51 -> 12:05:51>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:06:10 -> 12:06:10>>CMND101100
+12:06:10 -> 12:06:10>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 1
+	usNumOfRefused = 3
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+12:07:20 -> 12:07:20>>CMND101100
+12:07:20 -> 12:07:20>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 1
+	usNumOfRefused = 3
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+12:07:46 -> 12:07:46>>CMND101200
+12:07:46 -> 12:07:46>>WFS_CMD_CIM_RESET
+return  0
+
+12:08:03 -> 12:08:03>>CMND101100
+12:08:03 -> 12:08:03>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 0
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+	lpszExtra:
+
+
+12:10:34 -> 12:10:34>>CMND100700
+12:10:34 -> 12:10:34>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+12:10:38 -> 12:10:38>>CMND100400
+12:10:38 -> 12:10:38>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:10:46 -> 12:10:46>>CMND100500
+12:10:46 -> 12:10:46>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:11:04 -> 12:11:04>>CMND100800
+12:11:04 -> 12:11:04>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+12:11:31 -> 12:11:31>>CMND101100
+12:11:31 -> 12:11:31>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5188
+			ulCount = 1
+			usNoteID = 5189
+			ulCount = 1
+	lpszExtra:
+
+
+12:12:22 -> 12:12:22>>CMND100400
+12:12:22 -> 12:12:22>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:12:36 -> 12:12:36>>CMND100400
+12:12:36 -> 12:12:36>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:12:37 -> 12:12:37>>CMND100400
+12:12:37 -> 12:12:37>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:12:40 -> 12:12:40>>CMND100500
+12:12:40 -> 12:12:40>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:12:49 -> 12:12:49>>CMND101100
+12:12:49 -> 12:12:49>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5188
+			ulCount = 1
+			usNoteID = 5189
+			ulCount = 1
+	lpszExtra:
+
+
+12:13:27 -> 12:13:27>>CMND100900
+12:13:27 -> 12:13:27>>WFS_CMD_CIM_CASH_IN_END:
+return 0
+
+12:19:22 -> 12:19:22>>WFS_INF_CIM_STATUS:
+
+12:19:22 -> 12:19:22>>CMND100300
+12:19:22 -> 12:19:22>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d2 fe d3 fe d3 fe 72 fe f2 ff ff 
+12:20:57 -> 12:20:57>>WFS_INF_CIM_STATUS:
+
+12:20:57 -> 12:20:57>>CMND100300
+12:20:57 -> 12:20:57>>WFS_INF_CIM_STATUS:
+	fwDevice:0004
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Error
+	ErrorCode=00004100
+	Desc=Á÷³ÌÖ´ÐÐÇ°, ¼ì²âµ½ÏÂ²¿»úÐ¾±»ÍÑ¿ª
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00004100
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de ff fe d2 fe d3 fe d3 fe 72 ff ff ff ff 
+12:22:10 -> 12:22:10>>WFS_INF_CIM_STATUS:
+
+12:22:10 -> 12:22:10>>CMND100300
+12:22:10 -> 12:22:10>>WFS_INF_CIM_STATUS:
+	fwDevice:0004
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Error
+	ErrorCode=00004100
+	Desc=Á÷³ÌÖ´ÐÐÇ°, ¼ì²âµ½ÏÂ²¿»úÐ¾±»ÍÑ¿ª
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00004100
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de ff fe d2 fe d3 fe d3 ff ff fe f6 ff ff 
+12:23:33 -> 12:23:33>>WFS_INF_CIM_STATUS:
+
+12:23:33 -> 12:23:33>>CMND100300
+12:23:33 -> 12:23:33>>WFS_INF_CIM_STATUS:
+	fwDevice:0004
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Error
+	ErrorCode=00004100
+	Desc=Á÷³ÌÖ´ÐÐÇ°, ¼ì²âµ½ÏÂ²¿»úÐ¾±»ÍÑ¿ª
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00004100
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d2 fe d3 fe d3 fe f6 fe f6 ff ff 
+12:23:52 -> 12:23:52>>WFS_INF_CIM_STATUS:
+
+12:23:52 -> 12:23:52>>CMND100300
+12:23:52 -> 12:23:52>>WFS_INF_CIM_STATUS:
+	fwDevice:0004
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Error
+	ErrorCode=00004100
+	Desc=Á÷³ÌÖ´ÐÐÇ°, ¼ì²âµ½ÏÂ²¿»úÐ¾±»ÍÑ¿ª
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00004100
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d2 fe d3 fe d3 fe f6 fe f6 ff ff 
+12:24:24 -> 12:24:24>>CMND101200
+12:24:24 -> 12:24:24>>WFS_CMD_CIM_RESET
+return  0
+
+12:24:56 -> 12:24:56>>WFS_INF_CIM_STATUS:
+
+12:24:56 -> 12:24:56>>CMND100300
+12:24:56 -> 12:24:56>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d2 fe d3 fe d3 fe 72 fe f2 ff ff 
+12:27:20 -> 12:27:20>>WFS_INF_CIM_STATUS:
+
+12:29:43 -> 12:29:43>>CMND100300
+12:29:43 -> 12:29:43>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de fd fe d2 fe d3 fe d3 fe 52 fe d2 ff ff 
+12:30:08 -> 12:30:08>>WFS_INF_CIM_STATUS:
+
+12:30:08 -> 12:30:08>>CMND100300
+12:30:08 -> 12:30:08>>WFS_INF_CIM_STATUS:
+	fwDevice:0004
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Error
+	ErrorCode=00004100
+	Desc=Á÷³ÌÖ´ÐÐÇ°, ¼ì²âµ½ÏÂ²¿»úÐ¾±»ÍÑ¿ª
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00004100
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de ff fe d2 fe d3 fe d3 fe 52 fe d2 ff ff 
+12:43:18 -> 12:43:18>>WFS_INF_CIM_STATUS:
+
+12:45:50 -> 12:45:50>>CMND100300
+12:45:50 -> 12:45:50>>WFS_INF_CIM_STATUS:
+	fwDevice:0004
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Error
+	ErrorCode=00004100
+	Desc=Á÷³ÌÖ´ÐÐÇ°, ¼ì²âµ½ÏÂ²¿»úÐ¾±»ÍÑ¿ª
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00004100
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de ff fe d2 fe d3 fe d3 fe 52 fe d2 ff ff 
+02:15:37 -> 02:15:37>>WFS_INF_CIM_STATUS:
+
+02:15:38 -> 02:15:38>>CMND100300
+02:15:38 -> 02:15:38>>WFS_INF_CIM_STATUS:
+	fwDevice:0004
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Error
+	ErrorCode=00004100
+	Desc=Á÷³ÌÖ´ÐÐÇ°, ¼ì²âµ½ÏÂ²¿»úÐ¾±»ÍÑ¿ª
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00004100
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de ff fe d2 fe d3 fe d3 fe 52 fe d2 ff ff 
+02:16:03 -> 02:16:03>>WFS_INF_CIM_STATUS:
+
+02:16:05 -> 02:16:05>>CMND100300
+02:16:05 -> 02:16:05>>WFS_INF_CIM_STATUS:
+	fwDevice:0004
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Error
+	ErrorCode=00004100
+	Desc=Á÷³ÌÖ´ÐÐÇ°, ¼ì²âµ½ÏÂ²¿»úÐ¾±»ÍÑ¿ª
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00004100
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de fd fe d2 fe d3 fe d3 fe 52 fe d2 ff ff 
+02:17:14 -> 02:17:14>>CMND101200
+02:17:14 -> 02:17:14>>WFS_CMD_CIM_RESET
+return  0
+
+02:17:18 -> 02:17:18>>WFS_INF_CIM_STATUS:
+
+02:17:19 -> 02:17:19>>CMND100300
+02:17:19 -> 02:17:19>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d2 fe d3 fe d3 fe 72 fe f2 ff ff 
+02:18:11 -> 02:18:11>>WFS_INF_CIM_STATUS:
+
+02:18:12 -> 02:18:12>>CMND100300
+02:18:12 -> 02:18:12>>WFS_INF_CIM_STATUS:
+	fwDevice:0004
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Error
+	ErrorCode=00004100
+	Desc=Á÷³ÌÖ´ÐÐÇ°, ¼ì²âµ½ÏÂ²¿»úÐ¾±»ÍÑ¿ª
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00004100
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de ff fe d2 fe d3 fe d3 fe 52 fe d2 ff ff 
+02:18:25 -> 02:18:25>>CMND101201
+02:18:25 -> 02:18:25>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+02:18:47 -> 02:18:47>>WFS_INF_CIM_STATUS:
+
+02:18:47 -> 02:18:47>>CMND100300
+02:18:47 -> 02:18:47>>WFS_INF_CIM_STATUS:
+	fwDevice:0004
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Error
+	ErrorCode=00004100
+	Desc=Á÷³ÌÖ´ÐÐÇ°, ¼ì²âµ½ÏÂ²¿»úÐ¾±»ÍÑ¿ª
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00004100
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de ff fe d2 fe d3 fe d3 fe 52 fe d2 ff ff 
+02:19:51 -> 02:19:51>>CMND101200
+02:19:51 -> 02:19:51>>WFS_CMD_CIM_RESET
+return  0
+
+02:19:55 -> 02:19:55>>WFS_INF_CIM_STATUS:
+
+02:19:56 -> 02:19:56>>CMND100300
+02:19:56 -> 02:19:56>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d2 fe d3 fe d3 fe 72 fe f2 ff ff 
+03:00:47 -> 03:00:47>>Logger created.
+03:00:47 -> Properties successfully retrieved from the registry.
+03:00:47 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+03:00:47 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+03:00:47 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+03:00:47 -> KTR10 Open First Check Attempt.
+03:00:57 -> 03:00:57>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+03:01:19 -> 03:01:19>>CMND101200
+03:01:19 -> 03:01:19>>WFS_CMD_CIM_RESET
+return  0
+
+03:01:37 -> 03:01:37>>CMND100700
+03:01:37 -> 03:01:37>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+03:03:04 -> 03:03:04>>CMND100400
+03:03:04 -> 03:03:04>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+03:03:16 -> 03:03:16>>CMND100500
+03:03:16 -> 03:03:16>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+03:03:29 -> 03:03:29>>CMND100800
+03:03:29 -> 03:03:29>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+03:03:52 -> 03:03:52>>CMND101300
+03:03:52 -> 03:03:52>>WFS_CMD_CIM_RETRACT:
+return 0
+
+03:03:58 -> 03:03:58>>CMND100400
+03:03:58 -> 03:03:58>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+03:04:04 -> 03:04:04>>CMND100500
+03:04:04 -> 03:04:04>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+03:04:09 -> 03:04:09>>CMND101100
+03:04:09 -> 03:04:09>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 3
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+03:04:27 -> 03:04:27>>CMND101001
+03:04:27 -> 03:04:27>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return -1326
+		CIM Error WFS_ERR_CIM_NOCASHINACTIVE
+
+03:04:36 -> 03:04:36>>CMND101001
+03:04:36 -> 03:04:36>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return -1326
+		CIM Error WFS_ERR_CIM_NOCASHINACTIVE
+
+03:04:38 -> 03:04:38>>CMND100901
+03:04:38 -> 03:04:38>>WFS_CMD_CIM_CASH_IN_END:
+return -1326
+		CIM Error WFS_ERR_CIM_NOCASHINACTIVE
+
+03:05:40 -> 03:05:40>>WFS_INF_CIM_STATUS:
+
+03:05:40 -> 03:05:40>>CMND100300
+03:05:40 -> 03:05:40>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe f2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:06:12 -> 03:06:12>>CMND101200
+03:06:12 -> 03:06:12>>WFS_CMD_CIM_RESET
+return  0
+
+03:07:14 -> 03:07:14>>WFS_INF_CIM_STATUS:
+
+03:07:14 -> 03:07:14>>CMND100300
+03:07:14 -> 03:07:14>>WFS_INF_CIM_STATUS:
+	fwDevice:0004
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Error
+	ErrorCode=00004100
+	Desc=Á÷³ÌÖ´ÐÐÇ°, ¼ì²âµ½ÏÂ²¿»úÐ¾±»ÍÑ¿ª
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00004100
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de ff fe f6 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:07:32 -> 03:07:32>>WFS_INF_CIM_STATUS:
+
+03:07:32 -> 03:07:32>>CMND100300
+03:07:32 -> 03:07:32>>WFS_INF_CIM_STATUS:
+	fwDevice:0004
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Error
+	ErrorCode=00004100
+	Desc=Á÷³ÌÖ´ÐÐÇ°, ¼ì²âµ½ÏÂ²¿»úÐ¾±»ÍÑ¿ª
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00004100
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de fd fe f6 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:07:41 -> 03:07:41>>WFS_INF_CIM_STATUS:
+
+03:07:41 -> 03:07:41>>CMND100300
+03:07:41 -> 03:07:41>>WFS_INF_CIM_STATUS:
+	fwDevice:0004
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Error
+	ErrorCode=00004100
+	Desc=Á÷³ÌÖ´ÐÐÇ°, ¼ì²âµ½ÏÂ²¿»úÐ¾±»ÍÑ¿ª
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00004100
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de fd fe f6 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:08:05 -> 03:08:05>>CMND101200
+03:08:05 -> 03:08:05>>WFS_CMD_CIM_RESET
+return  0
+
+03:08:19 -> 03:08:19>>WFS_INF_CIM_STATUS:
+
+03:08:19 -> 03:08:19>>CMND100300
+03:08:19 -> 03:08:19>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d2 fe d3 fe d3 fe 72 fe f2 ff ff 
+03:08:27 -> 03:08:27>>CMND100400
+03:08:27 -> 03:08:27>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+03:08:36 -> 03:08:36>>WFS_INF_CIM_STATUS:
+
+03:08:36 -> 03:08:36>>CMND100300
+03:08:36 -> 03:08:36>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=1
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=1
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f5 af cf ff ff ff ef ff ff de fd fe d2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:08:50 -> 03:08:50>>CMND100500
+03:08:50 -> 03:08:50>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+03:08:57 -> 03:08:57>>WFS_INF_CIM_STATUS:
+
+03:08:57 -> 03:08:57>>CMND100300
+03:08:57 -> 03:08:57>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de fd fe d2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:09:29 -> 03:09:29>>WFS_INF_CIM_STATUS:
+
+03:09:29 -> 03:09:29>>CMND100300
+03:09:29 -> 03:09:29>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de fd fe d2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:09:59 -> 03:09:59>>WFS_INF_CIM_STATUS:
+
+03:09:59 -> 03:09:59>>CMND100300
+03:09:59 -> 03:09:59>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de fd fe d2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:10:25 -> 03:10:25>>CMND100400
+03:10:25 -> 03:10:25>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+03:10:29 -> 03:10:29>>WFS_INF_CIM_STATUS:
+
+03:10:29 -> 03:10:29>>CMND100300
+03:10:29 -> 03:10:29>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=1
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=1
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f5 af cf ff ff ff ef ff ff de fd fe d2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:10:40 -> 03:10:40>>WFS_INF_CIM_STATUS:
+
+03:10:40 -> 03:10:40>>CMND100300
+03:10:40 -> 03:10:40>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=1
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=1
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=c3 ff f5 af cf ff ff ff ef ff ff de fd fe d2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:10:41 -> 03:10:41>>WFS_INF_CIM_STATUS:
+
+03:10:41 -> 03:10:41>>CMND100300
+03:10:41 -> 03:10:41>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=1
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=1
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=c3 ff f5 af cf ff ff ff ef ff ff de fd fe d2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:11:14 -> 03:11:14>>CMND100500
+03:11:14 -> 03:11:14>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+03:11:19 -> 03:11:19>>WFS_INF_CIM_STATUS:
+
+03:11:19 -> 03:11:19>>CMND100300
+03:11:19 -> 03:11:19>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=c3 ff f6 af cf ff ff ff ef ff ff de fd fe d2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:11:26 -> 03:11:26>>CMND100801
+03:11:26 -> 03:11:26>>WFS_CMD_CIM_CASH_IN:
+return -1326
+		CIM Error WFS_ERR_CIM_NOCASHINACTIVE
+
+03:11:30 -> 03:11:30>>CMND100701
+03:11:30 -> 03:11:30>>WFS_CMD_CIM_CASH_IN_START:
+return -1328
+		CIM Error WFS_ERR_CIM_POSITION_NOT_EMPTY
+
+03:11:50 -> 03:11:50>>CMND100400
+03:11:50 -> 03:11:50>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+03:11:59 -> 03:11:59>>CMND100500
+03:11:59 -> 03:11:59>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+03:12:02 -> 03:12:02>>CMND100700
+03:12:02 -> 03:12:02>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+03:12:08 -> 03:12:08>>WFS_INF_CIM_STATUS:
+
+03:12:08 -> 03:12:08>>CMND100300
+03:12:08 -> 03:12:08>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de fd fe d2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:12:20 -> 03:12:20>>CMND100400
+03:12:20 -> 03:12:20>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+03:12:26 -> 03:12:26>>CMND100500
+03:12:26 -> 03:12:26>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+03:12:27 -> 03:12:27>>WFS_INF_CIM_STATUS:
+
+03:12:27 -> 03:12:27>>CMND100300
+03:12:27 -> 03:12:27>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=c3 ff f6 af cf ff ff ff ef ff ff de fd fe d2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:12:45 -> 03:12:45>>CMND100800
+03:12:45 -> 03:12:45>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+03:12:46 -> 03:12:46>>WFS_INF_CIM_STATUS:
+
+03:12:46 -> 03:12:46>>CMND100300
+03:12:46 -> 03:12:46>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0001
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=c3 ff ee 2f ef ff ff ff ef ff ff de fd fe d2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:14:41 -> 03:14:41>>CMND100400
+03:14:41 -> 03:14:41>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+03:14:56 -> 03:14:56>>WFS_INF_CIM_STATUS:
+
+03:14:56 -> 03:14:56>>CMND100300
+03:14:56 -> 03:14:56>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0001
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=1
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=1
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff ed 2f ef ff ff ff ef ff ff de fd fe d2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:14:58 -> 03:14:58>>CMND100500
+03:14:58 -> 03:14:58>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+03:14:59 -> 03:14:59>>WFS_INF_CIM_STATUS:
+
+03:14:59 -> 03:14:59>>CMND100300
+03:14:59 -> 03:14:59>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0001
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff ee 2f ef ff ff ff ef ff ff de fd fe d2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:15:00 -> 03:15:00>>WFS_INF_CIM_STATUS:
+
+03:15:00 -> 03:15:00>>CMND100300
+03:15:00 -> 03:15:00>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0001
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff ee 2f ef ff ff ff ef ff ff de fd fe d2 fe 53 fe d3 fe 52 fe d2 ff ff 
+03:15:24 -> 03:15:24>>CMND101100
+03:15:24 -> 03:15:24>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+03:15:52 -> 03:15:52>>CMND100801
+03:15:52 -> 03:15:52>>WFS_CMD_CIM_CASH_IN:
+return -1316
+		CIM Error WFS_ERR_CIM_NOITEMS
+
+03:16:14 -> 03:16:14>>CMND100900
+03:16:14 -> 03:16:14>>WFS_CMD_CIM_CASH_IN_END:
+return 0
+
+03:20:07 -> 03:20:07>>WFS_INF_CIM_STATUS:
+
+03:20:07 -> 03:20:07>>CMND100300
+03:20:07 -> 03:20:07>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe f2 fe d3 fe d2 fe 52 fe f2 ff ff 
+03:20:14 -> 03:20:14>>CMND101100
+03:20:14 -> 03:20:14>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 0
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5188
+			ulCount = 1
+			usNoteID = 5189
+			ulCount = 1
+	lpszExtra:
+
+
+03:22:07 -> 03:22:07>>CMND100700
+03:22:07 -> 03:22:07>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+03:22:12 -> 03:22:12>>CMND101100
+03:22:12 -> 03:22:12>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+	lpszExtra:
+
+
+03:22:20 -> 03:22:20>>CMND100901
+03:22:20 -> 03:22:20>>WFS_CMD_CIM_CASH_IN_END:
+return -1316
+		CIM Error WFS_ERR_CIM_NOITEMS
+
+03:22:27 -> 03:22:27>>CMND101100
+03:22:27 -> 03:22:27>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 0
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+	lpszExtra:
+
+
+03:23:01 -> 03:23:01>>WFS_INF_CIM_STATUS:
+
+03:23:01 -> 03:23:01>>CMND100300
+03:23:01 -> 03:23:01>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe f2 fe d3 fe d2 fe 52 fe f2 ff ff 
+03:29:46 -> 03:29:46>>CMND101100
+03:29:46 -> 03:29:46>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 0
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+	lpszExtra:
+
+
+03:30:46 -> 03:30:46>>CMND101100
+03:30:46 -> 03:30:46>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 0
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+	lpszExtra:
+
+

@@ -1,0 +1,630 @@
+11:52:14 -> 11:52:14>>Logger created.
+11:52:14 -> Properties successfully retrieved from the registry.
+11:52:14 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+11:52:14 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+11:52:14 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+11:52:14 -> KTR10 Open First Check Attempt.
+11:53:02 -> 11:53:02>>CMND101201
+11:53:02 -> 11:53:02>>WFS_CMD_CIM_RESET
+return  -39
+		General Error WFS_ERR_NOT_STARTED
+
+11:53:24 -> 11:53:24>>CMND101201
+11:53:24 -> 11:53:24>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+11:53:51 -> 11:53:51>>CMND101201
+11:53:51 -> 11:53:51>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+11:54:13 -> 11:54:13>>CMND101201
+11:54:13 -> 11:54:13>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+11:54:35 -> 11:54:35>>CMND101201
+11:54:35 -> 11:54:35>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+11:54:57 -> 11:54:57>>CMND101201
+11:54:57 -> 11:54:57>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+11:55:19 -> 11:55:19>>CMND101201
+11:55:19 -> 11:55:19>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+11:55:41 -> 11:55:41>>CMND101201
+11:55:41 -> 11:55:41>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+11:56:03 -> 11:56:03>>CMND101201
+11:56:03 -> 11:56:03>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+11:56:25 -> 11:56:25>>CMND101201
+11:56:25 -> 11:56:25>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+11:56:47 -> 11:56:47>>CMND101201
+11:56:47 -> 11:56:47>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+11:56:59 -> 11:56:59>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+11:57:12 -> 11:57:12>>WFS_INF_CIM_STATUS:
+
+11:57:12 -> 11:57:12>>CMND100300
+11:57:12 -> 11:57:12>>WFS_INF_CIM_STATUS:
+	fwDevice:0001
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0004
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+
+	fwPosition=4096
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003eb
+	Desc=Í¨ÐÅÊ§°Ü
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=0000
+	BvVersion=0000
+	LastErrorCode=000003eb
+	SensorCode=00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+11:57:14 -> 11:57:14>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+11:57:40 -> 11:57:40>>CMND101201
+11:57:40 -> 11:57:40>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+11:57:53 -> 11:57:53>>CMND101400
+11:57:53 -> 11:57:53>>WFS_INF_CIM_CAPABILITIES:
+WFS_INF_CIM_CAPABILITIES return :0
+	wClass = 13
+	fwType = 1
+	wMaxCashInItems = 300
+	bCompound = 1
+	bShutter = 1
+	bShutterControl = 0
+	bSafeDoor = 1
+	bCashBox = 0
+	bRefill = 0
+	fwIntermediateStacker = 300
+	bItemsTakenSensor = 1
+	bItemsInsertedSensor = 1
+	fwPositions = 4128
+	fwExchangeType = 5
+	fwRetractAreas = 1
+	fwRetractTransportActions = 2
+	fwRetractStackerActions = 3
+
+11:58:02 -> 11:58:02>>CMND101201
+11:58:02 -> 11:58:02>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+11:59:42 -> 11:59:42>>Logger created.
+11:59:42 -> Properties successfully retrieved from the registry.
+11:59:42 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+11:59:42 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+11:59:42 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+11:59:42 -> KTR10 Open First Check Attempt.
+11:59:43 -> 11:59:43>>CMND101201
+11:59:43 -> 11:59:43>>WFS_CMD_CIM_RESET
+return  -39
+		General Error WFS_ERR_NOT_STARTED
+
+11:59:44 -> 11:59:44>>CMND101200
+11:59:44 -> 11:59:44>>WFS_CMD_CIM_RESET
+return  0
+
+11:59:53 -> 11:59:53>>Service stopped.
+11:59:58 -> 11:59:58>>Logger created.
+11:59:58 -> Properties successfully retrieved from the registry.
+11:59:58 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+11:59:58 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+11:59:58 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+11:59:58 -> KTR10 Open First Check Attempt.
+12:00:01 -> 12:00:01>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+12:00:04 -> 12:00:04>>WFS_INF_CIM_STATUS:
+
+12:00:04 -> 12:00:04>>CMND100300
+12:00:04 -> 12:00:04>>WFS_INF_CIM_STATUS:
+	fwDevice:0001
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0004
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+
+	fwPosition=4096
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003eb
+	Desc=Í¨ÐÅÊ§°Ü
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=0000
+	BvVersion=0000
+	LastErrorCode=000003eb
+	SensorCode=00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+12:00:09 -> 12:00:09>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+12:01:10 -> 12:01:10>>WFS_INF_CIM_STATUS:
+
+12:01:10 -> 12:01:10>>CMND100300
+12:01:10 -> 12:01:10>>WFS_INF_CIM_STATUS:
+	fwDevice:0001
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0004
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+
+	fwPosition=4096
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003eb
+	Desc=Í¨ÐÅÊ§°Ü
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=0000
+	BvVersion=0000
+	LastErrorCode=000003eb
+	SensorCode=00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+12:02:30 -> 12:02:30>>WFS_INF_CIM_STATUS:
+
+12:02:30 -> 12:02:30>>CMND100300
+12:02:30 -> 12:02:30>>WFS_INF_CIM_STATUS:
+	fwDevice:0001
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0004
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+
+	fwPosition=4096
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003eb
+	Desc=Í¨ÐÅÊ§°Ü
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=0000
+	BvVersion=0000
+	LastErrorCode=000003eb
+	SensorCode=00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+12:03:15 -> 12:03:15>>CMND101201
+12:03:15 -> 12:03:15>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+12:03:49 -> 12:03:49>>Service stopped.
+12:03:52 -> 12:03:52>>Logger created.
+12:03:52 -> Properties successfully retrieved from the registry.
+12:03:52 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+12:03:52 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+12:03:52 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+12:03:52 -> KTR10 Open First Check Attempt.
+12:04:47 -> 12:04:47>>Logger created.
+12:04:47 -> Properties successfully retrieved from the registry.
+12:04:47 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+12:04:47 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+12:04:47 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+12:04:47 -> KTR10 Open First Check Attempt.
+12:04:48 -> 12:04:48>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+12:04:50 -> 12:04:50>>WFS_INF_CIM_STATUS:
+
+12:04:50 -> 12:04:50>>CMND100300
+12:04:50 -> 12:04:50>>WFS_INF_CIM_STATUS:
+	fwDevice:0001
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0004
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+
+	fwPosition=4096
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003eb
+	Desc=Í¨ÐÅÊ§°Ü
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=0000
+	BvVersion=0000
+	LastErrorCode=000003eb
+	SensorCode=00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+12:04:51 -> 12:04:51>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+12:07:48 -> 12:07:48>>CMND101201
+12:07:48 -> 12:07:48>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+12:08:16 -> 12:08:16>>CMND101201
+12:08:16 -> 12:08:16>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+12:08:38 -> 12:08:38>>CMND101201
+12:08:38 -> 12:08:38>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+12:09:04 -> 12:09:04>>CMND101201
+12:09:04 -> 12:09:04>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+12:09:26 -> 12:09:26>>CMND101201
+12:09:26 -> 12:09:26>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+12:09:49 -> 12:09:49>>CMND101201
+12:09:49 -> 12:09:49>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+12:10:11 -> 12:10:11>>CMND101201
+12:10:11 -> 12:10:11>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+12:10:33 -> 12:10:33>>CMND101201
+12:10:33 -> 12:10:33>>WFS_CMD_CIM_RESET
+return  -14
+		General Error WFS_ERR_HARDWARE_ERROR
+
+12:10:53 -> 12:10:53>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+12:11:00 -> 12:11:00>>WFS_INF_CIM_STATUS:
+
+12:11:00 -> 12:11:00>>CMND100300
+12:11:00 -> 12:11:00>>WFS_INF_CIM_STATUS:
+	fwDevice:0001
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0004
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+
+	fwPosition=4096
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003eb
+	Desc=Í¨ÐÅÊ§°Ü
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=0000
+	BvVersion=0000
+	LastErrorCode=000003eb
+	SensorCode=00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+12:11:01 -> 12:11:01>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+12:11:02 -> 12:11:02>>CMND101200
+12:11:02 -> 12:11:02>>WFS_CMD_CIM_RESET
+return  0
+
+12:11:13 -> 12:11:13>>Service stopped.
+12:14:30 -> 12:14:30>>Logger created.
+12:14:31 -> Properties successfully retrieved from the registry.
+12:14:31 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+12:14:31 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+12:14:31 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+12:14:31 -> KTR10 Open First Check Attempt.
+12:14:54 -> 12:14:54>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+12:14:56 -> 12:14:56>>WFS_INF_CIM_STATUS:
+
+12:14:56 -> 12:14:56>>CMND100300
+12:14:56 -> 12:14:56>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de fd fe d3 fe d3 fe d2 fe d2 fe d3 ff ff 
+12:17:28 -> 12:17:28>>Logger created.
+12:17:28 -> Properties successfully retrieved from the registry.
+12:17:28 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+12:17:28 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+12:17:28 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+12:17:28 -> KTR10 Open First Check Attempt.
+12:17:31 -> 12:17:31>>WFS_INF_CIM_STATUS:
+
+12:17:31 -> 12:17:31>>CMND100300
+12:17:31 -> 12:17:31>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+12:17:56 -> 12:17:56>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+12:17:57 -> 12:17:57>>WFS_INF_CIM_STATUS:
+
+12:17:57 -> 12:17:57>>CMND100300
+12:17:57 -> 12:17:57>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af cf ff ff ff ef ff ff de fd fe d2 fe d3 fe d2 fe d2 fe d3 ff ff 

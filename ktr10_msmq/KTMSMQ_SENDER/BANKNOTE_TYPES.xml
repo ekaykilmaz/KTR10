@@ -1,0 +1,91 @@
+﻿<?xml version="1.0"?>
+<!--Banknote type-->
+
+<Ktr10 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <CIM_BANKNOTE_TYPES>
+      <usNoteID	>5153</usNoteID>
+      <cCurrencyID>TRY</cCurrencyID>
+      <ulValues>1</ulValues>
+      <usRelease>2005</usRelease>
+      <bConfigured>0</bConfigured>
+  </CIM_BANKNOTE_TYPES>
+  <CIM_BANKNOTE_TYPES>
+    <usNoteID	>5155</usNoteID>
+    <cCurrencyID>TRY</cCurrencyID>
+    <ulValues>5</ulValues>
+    <usRelease>2005</usRelease>
+    <bConfigured>0</bConfigured>
+  </CIM_BANKNOTE_TYPES>
+  <CIM_BANKNOTE_TYPES>
+    <usNoteID	>5156</usNoteID>
+    <cCurrencyID>TRY</cCurrencyID>
+    <ulValues>10</ulValues>
+    <usRelease>2005</usRelease>
+    <bConfigured>1</bConfigured>
+  </CIM_BANKNOTE_TYPES>
+  <CIM_BANKNOTE_TYPES>
+    <usNoteID	>5157</usNoteID>
+    <cCurrencyID>TRY</cCurrencyID>
+    <ulValues>20</ulValues>
+    <usRelease>2005</usRelease>
+    <bConfigured>1</bConfigured>
+  </CIM_BANKNOTE_TYPES>
+  <CIM_BANKNOTE_TYPES>
+    <usNoteID	>5158</usNoteID>
+    <cCurrencyID>TRY</cCurrencyID>
+    <ulValues>50</ulValues>
+    <usRelease>2005</usRelease>
+    <bConfigured>1</bConfigured>
+  </CIM_BANKNOTE_TYPES>
+  <CIM_BANKNOTE_TYPES>
+    <usNoteID	>5159</usNoteID>
+    <cCurrencyID>TRY</cCurrencyID>
+    <ulValues>100</ulValues>
+    <usRelease>2005</usRelease>
+    <bConfigured>1</bConfigured>
+  </CIM_BANKNOTE_TYPES>
+  <CIM_BANKNOTE_TYPES>
+    <usNoteID	>5187</usNoteID>
+    <cCurrencyID>TRY</cCurrencyID>
+    <ulValues>5</ulValues>
+    <usRelease>2009</usRelease>
+    <bConfigured>0</bConfigured>
+  </CIM_BANKNOTE_TYPES>
+  <CIM_BANKNOTE_TYPES>
+    <usNoteID	>5188</usNoteID>
+    <cCurrencyID>TRY</cCurrencyID>
+    <ulValues>10</ulValues>
+    <usRelease>2009</usRelease>
+    <bConfigured>1</bConfigured>
+  </CIM_BANKNOTE_TYPES>
+  <CIM_BANKNOTE_TYPES>
+    <usNoteID	>5189</usNoteID>
+    <cCurrencyID>TRY</cCurrencyID>
+    <ulValues>20</ulValues>
+    <usRelease>2009</usRelease>
+    <bConfigured>0</bConfigured>
+  </CIM_BANKNOTE_TYPES>
+  <CIM_BANKNOTE_TYPES>
+    <usNoteID	>5190</usNoteID>
+    <cCurrencyID>TRY</cCurrencyID>
+    <ulValues>50</ulValues>
+    <usRelease>2009</usRelease>
+    <bConfigured>1</bConfigured>
+  </CIM_BANKNOTE_TYPES>
+  <CIM_BANKNOTE_TYPES>
+    <usNoteID	>5191</usNoteID>
+    <cCurrencyID>TRY</cCurrencyID>
+    <ulValues>100</ulValues>
+    <usRelease>2009</usRelease>
+    <bConfigured>1</bConfigured>
+  </CIM_BANKNOTE_TYPES>
+  <CIM_BANKNOTE_TYPES>
+    <usNoteID	>5192</usNoteID>
+    <cCurrencyID>TRY</cCurrencyID>
+    <ulValues>200</ulValues>
+    <usRelease>2009</usRelease>
+    <bConfigured>0</bConfigured>
+  </CIM_BANKNOTE_TYPES>
+ 
+</Ktr10>

@@ -1,0 +1,486 @@
+10:09:06 -> 10:09:06>>CMND101400
+10:09:06 -> 10:09:06>>WFS_INF_CIM_CAPABILITIES:
+WFS_INF_CIM_CAPABILITIES return :0
+	wClass = 13
+	fwType = 1
+	wMaxCashInItems = 300
+	bCompound = 1
+	bShutter = 1
+	bShutterControl = 0
+	bSafeDoor = 1
+	bCashBox = 0
+	bRefill = 0
+	fwIntermediateStacker = 300
+	bItemsTakenSensor = 1
+	bItemsInsertedSensor = 1
+	fwPositions = 4128
+	fwExchangeType = 5
+	fwRetractAreas = 1
+	fwRetractTransportActions = 2
+	fwRetractStackerActions = 3
+
+10:17:40 -> 10:17:40>>CMND101600
+10:17:40 -> 10:17:40>>WFS_INF_CIM_CASH_UNIT_INFO:
+return :0
+	usCount = 5
+	lppCashIn:
+		usNumber = 1
+		fwType = 4
+		fwItemType = 1
+		cUnitID = CRT
+		cCurrencyID = TRY
+		ulValues = 0
+		ulCashInCount = 21
+		ulCount = 21
+		ulMaximum = 3000
+		usStatus = 6
+		bAppLock = 0
+		lpNoteNumberList:
+			usNumOfNoteNumbers = 5
+				usNoteID = 5187
+				ulCount = 2
+				usNoteID = 5188
+				ulCount = 5
+				usNoteID = 5189
+				ulCount = 8
+				usNoteID = 5190
+				ulCount = 1
+				usNoteID = 0
+				ulCount = 5
+		usNumPhysicalCUs = 1
+		lppPhysical:
+			lpPhysicalPositionName = RETRACT
+			cUnitID = CRT
+			ulCashInCount = 21
+			ulCount = 21
+			ulMaximum = 3000
+			usPStatus = 6
+			bHardwareSensors = 0
+			lpszExtra:
+		lpszExtra:
+
+		usNumber = 2
+		fwType = 1
+		fwItemType = 1
+		cUnitID = PD1
+		cCurrencyID = TRY
+		ulValues = 100
+		ulCashInCount = 0
+		ulCount = 0
+		ulMaximum = 3000
+		usStatus = 6
+		bAppLock = 0
+		lpNoteNumberList:
+			usNumOfNoteNumbers = 2
+				usNoteID = 5159
+				ulCount = 0
+				usNoteID = 5191
+				ulCount = 0
+		usNumPhysicalCUs = 1
+		lppPhysical:
+			lpPhysicalPositionName = CASSETTE1
+			cUnitID = PD1
+			ulCashInCount = 0
+			ulCount = 0
+			ulMaximum = 3000
+			usPStatus = 6
+			bHardwareSensors = 0
+			lpszExtra:
+		lpszExtra:
+
+		usNumber = 3
+		fwType = 1
+		fwItemType = 1
+		cUnitID = PD2
+		cCurrencyID = TRY
+		ulValues = 50
+		ulCashInCount = 0
+		ulCount = 0
+		ulMaximum = 3000
+		usStatus = 6
+		bAppLock = 0
+		lpNoteNumberList:
+			usNumOfNoteNumbers = 2
+				usNoteID = 5158
+				ulCount = 0
+				usNoteID = 5190
+				ulCount = 0
+		usNumPhysicalCUs = 1
+		lppPhysical:
+			lpPhysicalPositionName = CASSETTE2
+			cUnitID = PD2
+			ulCashInCount = 0
+			ulCount = 0
+			ulMaximum = 3000
+			usPStatus = 6
+			bHardwareSensors = 0
+			lpszExtra:
+		lpszExtra:
+
+		usNumber = 4
+		fwType = 1
+		fwItemType = 1
+		cUnitID = PD3
+		cCurrencyID = TRY
+		ulValues = 20
+		ulCashInCount = 5
+		ulCount = 3
+		ulMaximum = 3000
+		usStatus = 6
+		bAppLock = 0
+		lpNoteNumberList:
+			usNumOfNoteNumbers = 2
+				usNoteID = 5157
+				ulCount = 0
+				usNoteID = 5189
+				ulCount = 5
+		usNumPhysicalCUs = 1
+		lppPhysical:
+			lpPhysicalPositionName = CASSETTE3
+			cUnitID = PD3
+			ulCashInCount = 5
+			ulCount = 3
+			ulMaximum = 3000
+			usPStatus = 6
+			bHardwareSensors = 0
+			lpszExtra:
+		lpszExtra:
+
+		usNumber = 5
+		fwType = 1
+		fwItemType = 1
+		cUnitID = PD4
+		cCurrencyID = TRY
+		ulValues = 10
+		ulCashInCount = 8
+		ulCount = 8
+		ulMaximum = 3000
+		usStatus = 6
+		bAppLock = 0
+		lpNoteNumberList:
+			usNumOfNoteNumbers = 2
+				usNoteID = 5156
+				ulCount = 0
+				usNoteID = 5188
+				ulCount = 8
+		usNumPhysicalCUs = 1
+		lppPhysical:
+			lpPhysicalPositionName = CASSETTE4
+			cUnitID = PD4
+			ulCashInCount = 8
+			ulCount = 8
+			ulMaximum = 3000
+			usPStatus = 6
+			bHardwareSensors = 0
+			lpszExtra:
+		lpszExtra:
+
+
+10:18:01 -> 10:18:01>>Service stopped.
+04:18:43 -> 04:18:43>>Logger created.
+04:18:43 -> Properties successfully retrieved from the registry.
+04:19:24 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+04:19:24 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+04:19:24 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+04:19:26 -> KTR10 Open First Check Attempt.
+04:20:14 -> 04:20:14>>Failed return -43
+
+04:20:25 -> 04:20:25>>Failed return -43
+
+04:20:35 -> 04:20:35>>WFS_INF_CIM_STATUS:
+
+04:20:35 -> 04:20:35>>CMND100300
+04:20:35 -> 04:20:35>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+04:20:56 -> 04:20:56>>WFS_INF_CIM_STATUS:
+
+04:20:56 -> 04:20:56>>CMND100300
+04:20:56 -> 04:20:56>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+04:28:16 -> 04:28:16>>WFS_INF_CIM_STATUS:
+
+04:28:16 -> 04:28:16>>CMND100300
+04:28:16 -> 04:28:16>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+04:28:26 -> 04:28:26>>Failed return -43
+
+04:28:36 -> 04:28:36>>WFS_INF_CIM_STATUS:
+
+04:28:36 -> 04:28:36>>CMND100300
+04:28:36 -> 04:28:36>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+04:31:47 -> 04:31:47>>WFS_INF_CIM_STATUS:
+
+04:31:47 -> 04:31:47>>CMND100300
+04:31:47 -> 04:31:47>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+04:32:44 -> 04:32:44>>WFS_INF_CIM_STATUS:
+
+04:32:44 -> 04:32:44>>CMND100300
+04:32:44 -> 04:32:44>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+04:35:36 -> 04:35:36>>WFS_INF_CIM_STATUS:
+
+04:35:36 -> 04:35:36>>CMND100300
+04:35:36 -> 04:35:36>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+04:35:46 -> 04:35:46>>WFS_INF_CIM_STATUS:
+
+04:35:46 -> 04:35:46>>CMND100300
+04:35:46 -> 04:35:46>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+04:36:56 -> 04:36:56>>WFS_INF_CIM_STATUS:
+
+04:36:56 -> 04:36:56>>CMND100300
+04:36:56 -> 04:36:56>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+04:43:12 -> 04:43:12>>Logger created.
+04:43:12 -> Properties successfully retrieved from the registry.
+04:43:18 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+04:43:18 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+04:43:18 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+04:43:18 -> KTR10 Open First Check Attempt.
+04:43:30 -> 04:43:30>>WFS_INF_CIM_STATUS:
+
+04:43:30 -> 04:43:30>>CMND100300
+04:43:30 -> 04:43:30>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+05:04:35 -> 05:04:35>>Logger created.
+05:04:35 -> Properties successfully retrieved from the registry.
+05:04:35 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+05:04:35 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+05:04:35 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+05:04:35 -> KTR10 Open First Check Attempt.
+05:18:59 -> 05:18:59>>Logger created.
+05:18:59 -> Properties successfully retrieved from the registry.
+05:18:59 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+05:18:59 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+05:18:59 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+05:18:59 -> KTR10 Open First Check Attempt.
+05:19:34 -> 05:19:34>>Failed return -43
+
+05:19:44 -> 05:19:44>>WFS_INF_CIM_STATUS:
+
+05:19:44 -> 05:19:44>>CMND100300
+05:19:44 -> 05:19:44>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+05:19:54 -> 05:19:54>>WFS_INF_CIM_STATUS:
+
+05:19:54 -> 05:19:54>>CMND100300
+05:19:54 -> 05:19:54>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+05:20:05 -> 05:20:05>>Service stopped.
+05:20:10 -> 05:20:10>>Logger created.
+05:20:11 -> Properties successfully retrieved from the registry.
+05:20:12 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+05:20:13 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+05:20:16 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+05:20:16 -> KTR10 Open First Check Attempt.
+05:23:55 -> 05:23:55>>Logger created.
+05:23:55 -> Properties successfully retrieved from the registry.
+05:23:55 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+05:23:55 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+05:23:55 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+05:23:55 -> KTR10 Open First Check Attempt.
+05:24:07 -> 05:24:07>>WFS_INF_CIM_STATUS:
+
+05:24:07 -> 05:24:07>>CMND100300
+05:24:07 -> 05:24:07>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+05:24:18 -> 05:24:18>>Failed return -43
+
+05:24:28 -> 05:24:28>>WFS_INF_CIM_STATUS:
+
+05:24:28 -> 05:24:28>>CMND100300
+05:24:28 -> 05:24:28>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+05:24:54 -> 05:24:54>>Logger created.
+05:25:29 -> 05:25:29>>Logger created.
+05:25:48 -> Properties successfully retrieved from the registry.
+05:25:56 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+05:25:56 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+05:25:56 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+05:25:57 -> KTR10 Open First Check Attempt.
+05:26:40 -> 05:26:40>>Logger created.
+05:26:40 -> Properties successfully retrieved from the registry.
+05:26:42 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+05:26:42 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+05:26:42 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+05:26:42 -> KTR10 Open First Check Attempt.
+05:27:17 -> 05:27:17>>Logger created.
+05:27:17 -> Properties successfully retrieved from the registry.
+05:27:20 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+05:27:20 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+05:27:20 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+05:27:20 -> KTR10 Open First Check Attempt.
+05:30:05 -> 05:30:05>>Logger created.
+05:30:05 -> Properties successfully retrieved from the registry.
+05:30:05 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+05:30:05 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+05:30:05 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+05:30:05 -> KTR10 Open First Check Attempt.
+06:08:42 -> 06:08:42>>CMND100401
+06:08:42 -> 06:08:42>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  -39
+		General Error WFS_ERR_NOT_STARTED
+
+06:08:52 -> 06:08:52>>CMND100501
+06:08:52 -> 06:08:52>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return -39
+		General Error WFS_ERR_NOT_STARTED
+
+06:09:03 -> 06:09:03>>CMND100401
+06:09:03 -> 06:09:03>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  -39
+		General Error WFS_ERR_NOT_STARTED
+
+06:09:13 -> 06:09:13>>CMND100501
+06:09:13 -> 06:09:13>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return -39
+		General Error WFS_ERR_NOT_STARTED
+
+06:09:23 -> 06:09:23>>CMND100501
+06:09:23 -> 06:09:23>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return -39
+		General Error WFS_ERR_NOT_STARTED
+
+06:09:33 -> 06:09:33>>CMND100401
+06:09:33 -> 06:09:33>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  -39
+		General Error WFS_ERR_NOT_STARTED
+
+06:09:43 -> 06:09:43>>CMND100501
+06:09:43 -> 06:09:43>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return -39
+		General Error WFS_ERR_NOT_STARTED
+
+06:09:53 -> 06:09:53>>CMND100701
+06:09:53 -> 06:09:53>>WFS_CMD_CIM_CASH_IN_START:
+return -39
+		General Error WFS_ERR_NOT_STARTED
+
+06:10:14 -> 06:10:14>>CMND101701
+06:10:14 -> 06:10:14>>WFS_INF_CIM_CURRENCY_EXP:
+WFS_INF_CIM_CURRENCY_EXP return :-39
+		General Error WFS_ERR_NOT_STARTED
+
+06:10:24 -> 06:10:24>>CMND101601
+06:10:24 -> 06:10:24>>WFS_INF_CIM_CASH_UNIT_INFO:
+return :-39
+		General Error WFS_ERR_NOT_STARTED
+
+06:10:34 -> 06:10:34>>
+06:10:34 -> 06:10:34>>WFS_INF_CIM_CASH_IN_STATUS:
+return :-39
+	wStatus = 0
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+		Error Object reference not set to an instance of an object.
+
+06:10:44 -> 06:10:44>>CMND101501
+06:10:44 -> 06:10:44>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :-39
+		General Error WFS_ERR_NOT_STARTED
+
+06:10:54 -> 06:10:54>>CMND101401
+06:10:54 -> 06:10:54>>WFS_INF_CIM_CAPABILITIES:
+WFS_INF_CIM_CAPABILITIES return :-39
+		General Error WFS_ERR_NOT_STARTED
+
+06:11:04 -> 06:11:04>>CMND101301
+06:11:04 -> 06:11:04>>WFS_CMD_CIM_RETRACT:
+return -39
+		General Error WFS_ERR_NOT_STARTED
+
+06:11:14 -> 06:11:14>>CMND101201
+06:11:14 -> 06:11:14>>WFS_CMD_CIM_RESET
+return  -39
+		General Error WFS_ERR_NOT_STARTED
+
+06:42:08 -> 06:42:08>>Service stopped.

@@ -1,0 +1,6 @@
+﻿
+
+1. Dispensed Counter not found
+
+2. Event handling is not working on KTForm project. This is a huge problem
+

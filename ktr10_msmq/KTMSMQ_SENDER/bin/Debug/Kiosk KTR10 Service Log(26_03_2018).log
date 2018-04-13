@@ -1,0 +1,2988 @@
+10:47:22 -> 10:47:22>>Logger created.
+10:47:34 -> Properties successfully retrieved from the registry.
+10:47:36 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+10:47:36 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+10:47:36 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+10:47:37 -> KTR10 Open First Check Attempt.
+10:47:40 -> 10:47:40>>String cannot be of zero length.
+Parameter name: oldValue
+10:47:55 -> 10:47:55>>String cannot be of zero length.
+Parameter name: oldValue
+10:48:05 -> 10:48:05>>String cannot be of zero length.
+Parameter name: oldValue
+10:48:15 -> 10:48:15>>String cannot be of zero length.
+Parameter name: oldValue
+10:48:25 -> 10:48:25>>String cannot be of zero length.
+Parameter name: oldValue
+10:48:35 -> 10:48:35>>String cannot be of zero length.
+Parameter name: oldValue
+10:48:45 -> 10:48:45>>String cannot be of zero length.
+Parameter name: oldValue
+10:48:55 -> 10:48:55>>String cannot be of zero length.
+Parameter name: oldValue
+10:49:17 -> 10:49:17>>String cannot be of zero length.
+Parameter name: oldValue
+10:49:28 -> 10:49:28>>String cannot be of zero length.
+Parameter name: oldValue
+10:49:47 -> 10:49:47>>String cannot be of zero length.
+Parameter name: oldValue
+10:50:04 -> 10:50:04>>String cannot be of zero length.
+Parameter name: oldValue
+10:50:15 -> 10:50:15>>String cannot be of zero length.
+Parameter name: oldValue
+10:50:39 -> 10:50:39>>String cannot be of zero length.
+Parameter name: oldValue
+10:50:52 -> 10:50:52>>String cannot be of zero length.
+Parameter name: oldValue
+10:51:13 -> 10:51:13>>String cannot be of zero length.
+Parameter name: oldValue
+10:51:23 -> 10:51:23>>String cannot be of zero length.
+Parameter name: oldValue
+10:51:33 -> 10:51:33>>String cannot be of zero length.
+Parameter name: oldValue
+10:51:43 -> 10:51:43>>String cannot be of zero length.
+Parameter name: oldValue
+10:51:53 -> 10:51:53>>String cannot be of zero length.
+Parameter name: oldValue
+10:52:03 -> 10:52:03>>String cannot be of zero length.
+Parameter name: oldValue
+10:52:13 -> 10:52:13>>String cannot be of zero length.
+Parameter name: oldValue
+10:52:23 -> 10:52:23>>String cannot be of zero length.
+Parameter name: oldValue
+10:52:33 -> 10:52:33>>String cannot be of zero length.
+Parameter name: oldValue
+10:52:43 -> 10:52:43>>String cannot be of zero length.
+Parameter name: oldValue
+10:52:53 -> 10:52:53>>String cannot be of zero length.
+Parameter name: oldValue
+10:53:03 -> 10:53:03>>String cannot be of zero length.
+Parameter name: oldValue
+10:53:13 -> 10:53:13>>String cannot be of zero length.
+Parameter name: oldValue
+10:53:23 -> 10:53:23>>String cannot be of zero length.
+Parameter name: oldValue
+10:53:33 -> 10:53:33>>String cannot be of zero length.
+Parameter name: oldValue
+10:53:43 -> 10:53:43>>String cannot be of zero length.
+Parameter name: oldValue
+10:53:54 -> 10:53:54>>String cannot be of zero length.
+Parameter name: oldValue
+10:54:04 -> 10:54:04>>String cannot be of zero length.
+Parameter name: oldValue
+10:54:14 -> 10:54:14>>String cannot be of zero length.
+Parameter name: oldValue
+10:54:24 -> 10:54:24>>String cannot be of zero length.
+Parameter name: oldValue
+10:54:34 -> 10:54:34>>String cannot be of zero length.
+Parameter name: oldValue
+10:54:44 -> 10:54:44>>String cannot be of zero length.
+Parameter name: oldValue
+10:54:54 -> 10:54:54>>String cannot be of zero length.
+Parameter name: oldValue
+10:55:04 -> 10:55:04>>String cannot be of zero length.
+Parameter name: oldValue
+10:55:14 -> 10:55:14>>String cannot be of zero length.
+Parameter name: oldValue
+10:55:24 -> 10:55:24>>String cannot be of zero length.
+Parameter name: oldValue
+10:55:34 -> 10:55:34>>String cannot be of zero length.
+Parameter name: oldValue
+10:55:44 -> 10:55:44>>String cannot be of zero length.
+Parameter name: oldValue
+10:55:54 -> 10:55:54>>String cannot be of zero length.
+Parameter name: oldValue
+03:16:14 -> 03:16:14>>Logger created.
+03:16:14 -> Properties successfully retrieved from the registry.
+03:16:14 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+03:16:14 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+03:16:14 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+03:16:14 -> KTR10 Open First Check Attempt.
+03:16:15 -> 03:16:15>>CMND100801
+03:16:15 -> 03:16:15>>WFS_CMD_CIM_CASH_IN:
+return -39
+		General Error WFS_ERR_NOT_STARTED
+
+03:16:25 -> 03:16:25>>CMND100901
+03:16:25 -> 03:16:25>>WFS_CMD_CIM_CASH_IN_END:
+return -39
+		General Error WFS_ERR_NOT_STARTED
+
+03:16:35 -> 03:16:35>>Service stopped.
+03:16:36 -> 03:16:36>>Logger created.
+03:16:36 -> Properties successfully retrieved from the registry.
+03:16:36 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+03:16:36 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+03:16:36 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+03:16:36 -> KTR10 Open First Check Attempt.
+03:16:37 -> 03:16:37>>WFS_INF_CIM_STATUS:
+
+03:16:37 -> 03:16:37>>CMND100300
+03:16:37 -> 03:16:37>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0000
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+	szExtra: 
+	
+03:17:06 -> 03:17:06>>CMND101501
+03:17:06 -> 03:17:06>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :-39
+		General Error WFS_ERR_NOT_STARTED
+
+03:17:41 -> 03:17:41>>Service stopped.
+04:43:43 -> 04:43:43>>Logger created.
+04:43:43 -> Properties successfully retrieved from the registry.
+04:43:43 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+04:43:43 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+04:43:43 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+04:43:43 -> KTR10 Open First Check Attempt.
+04:43:44 -> 04:43:44>>CMND101501
+04:43:44 -> 04:43:44>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :-39
+		General Error WFS_ERR_NOT_STARTED
+
+04:43:55 -> 04:43:55>>Failed return -43
+
+04:44:08 -> 04:44:08>>CMND101501
+04:44:08 -> 04:44:08>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :-39
+		General Error WFS_ERR_NOT_STARTED
+
+04:46:43 -> 04:46:43>>CMND101501
+04:46:43 -> 04:46:43>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :-39
+		General Error WFS_ERR_NOT_STARTED
+
+04:47:36 -> 04:47:36>>Logger created.
+04:47:36 -> Properties successfully retrieved from the registry.
+04:47:36 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+04:47:36 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+04:47:36 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+04:47:36 -> KTR10 Open First Check Attempt.
+04:47:48 -> 04:47:48>>CMND101501
+04:47:48 -> 04:47:48>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :-39
+		General Error WFS_ERR_NOT_STARTED
+
+04:48:09 -> 04:48:09>>Service stopped.
+04:51:14 -> 04:51:14>>Logger created.
+04:51:14 -> Properties successfully retrieved from the registry.
+04:51:14 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+04:51:14 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+04:51:14 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+04:51:14 -> KTR10 Open First Check Attempt.
+04:51:20 -> 04:51:20>>CMND101501
+04:51:20 -> 04:51:20>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :-39
+		General Error WFS_ERR_NOT_STARTED
+
+04:51:36 -> 04:51:36>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+04:51:44 -> 04:51:44>>CMND101500
+04:51:44 -> 04:51:44>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+04:54:50 -> 04:54:50>>CMND101500
+04:54:50 -> 04:54:50>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+04:55:41 -> 04:55:41>>CMND101500
+04:55:41 -> 04:55:41>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+04:59:08 -> 04:59:08>>Logger created.
+04:59:08 -> Properties successfully retrieved from the registry.
+04:59:08 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+04:59:08 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+04:59:08 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+04:59:08 -> KTR10 Open First Check Attempt.
+04:59:12 -> 04:59:12>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+05:00:48 -> 05:00:48>>CMND101500
+05:00:48 -> 05:00:48>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+05:12:04 -> 05:12:04>>CMND101500
+05:12:04 -> 05:12:04>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+05:14:55 -> 05:14:55>>CMND101500
+05:14:55 -> 05:14:55>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+05:15:56 -> 05:15:56>>CMND101800
+05:15:56 -> 05:15:56>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(0)-
+	ItemsList[]
+05:16:23 -> 05:16:23>>Service stopped.
+05:21:57 -> 05:21:57>>Logger created.
+05:21:57 -> Properties successfully retrieved from the registry.
+05:21:57 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+05:21:57 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+05:21:57 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+05:21:57 -> KTR10 Open First Check Attempt.
+05:22:03 -> 05:22:03>>CMND101501
+05:22:03 -> 05:22:03>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :-39
+		General Error WFS_ERR_NOT_STARTED
+
+05:22:25 -> 05:22:25>>CMND101801
+05:22:25 -> 05:22:25>>WFS_INF_CIM_GET_ITEMS_INFO: return :-39		General Error WFS_ERR_NOT_STARTED
+
+05:30:30 -> 05:30:30>>CMND101801
+05:30:30 -> 05:30:30>>WFS_INF_CIM_GET_ITEMS_INFO: return :-39		General Error WFS_ERR_NOT_STARTED
+
+05:38:53 -> 05:38:53>>
+05:38:53 -> 05:38:53>>WFS_INF_CIM_CASH_IN_STATUS:
+return :-39
+	wStatus = 0
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+		Error Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+
+05:39:39 -> 05:39:39>>
+05:39:39 -> 05:39:39>>WFS_INF_CIM_CASH_IN_STATUS:
+return :-39
+	wStatus = 0
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+		Error Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+
+05:39:49 -> 05:39:49>>Service stopped.
+05:40:06 -> 05:40:06>>Logger created.
+05:40:06 -> Properties successfully retrieved from the registry.
+05:40:06 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+05:40:06 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+05:40:06 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+05:40:06 -> KTR10 Open First Check Attempt.
+05:40:28 -> 05:40:28>>
+05:40:28 -> 05:40:28>>WFS_INF_CIM_CASH_IN_STATUS:
+return :-39
+	wStatus = 0
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+		Error Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+
+05:40:38 -> 05:40:38>>CMND101801
+05:40:38 -> 05:40:38>>WFS_INF_CIM_GET_ITEMS_INFO: return :-39		General Error WFS_ERR_NOT_STARTED
+
+05:41:44 -> 05:41:44>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+05:41:48 -> 05:41:48>>Service stopped.
+05:42:12 -> 05:42:12>>Logger created.
+05:42:12 -> Properties successfully retrieved from the registry.
+05:42:12 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+05:42:12 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+05:42:12 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+05:42:12 -> KTR10 Open First Check Attempt.
+05:42:38 -> 05:42:38>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+05:42:46 -> 05:42:46>>CMND100700
+05:42:46 -> 05:42:46>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+05:42:48 -> 05:42:48>>CMND100400
+05:42:48 -> 05:42:48>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+05:42:57 -> 05:42:57>>CMND100500
+05:42:57 -> 05:42:57>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+05:43:12 -> 05:43:12>>CMND100800
+05:43:12 -> 05:43:12>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+05:43:29 -> 05:43:29>>CMND101100
+05:43:29 -> 05:43:29>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 2
+	lpszExtra:
+
+
+05:57:55 -> 05:57:55>>Logger created.
+05:57:55 -> Properties successfully retrieved from the registry.
+05:57:55 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+05:57:55 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+05:57:55 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+05:57:55 -> KTR10 Open First Check Attempt.
+05:58:28 -> 05:58:28>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+05:58:29 -> 05:58:29>>CMND100701
+05:58:29 -> 05:58:29>>WFS_CMD_CIM_CASH_IN_START:
+return -1325
+		CIM Error WFS_ERR_CIM_CASHINACTIVE
+
+05:58:30 -> 05:58:30>>CMND101800
+05:58:30 -> 05:58:30>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(0)-
+	ItemsList[]
+05:58:46 -> 05:58:46>>CMND101100
+05:58:46 -> 05:58:46>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+	lpszExtra:
+
+
+05:59:30 -> 05:59:30>>CMND100400
+05:59:30 -> 05:59:30>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+05:59:40 -> 05:59:40>>CMND100500
+05:59:40 -> 05:59:40>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:00:00 -> 06:00:00>>CMND101200
+06:00:00 -> 06:00:00>>WFS_CMD_CIM_RESET
+return  0
+
+06:00:12 -> 06:00:12>>CMND100700
+06:00:12 -> 06:00:12>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+06:00:13 -> 06:00:13>>CMND100400
+06:00:13 -> 06:00:13>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:00:21 -> 06:00:21>>CMND100500
+06:00:21 -> 06:00:21>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:00:31 -> 06:00:31>>CMND101100
+06:00:31 -> 06:00:31>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+	lpszExtra:
+
+
+06:00:48 -> 06:00:48>>CMND100800
+06:00:48 -> 06:00:48>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+06:00:53 -> 06:00:53>>CMND101100
+06:00:53 -> 06:00:53>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 2
+	lpszExtra:
+
+
+06:01:40 -> 06:01:40>>CMND101100
+06:01:40 -> 06:01:40>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 2
+	lpszExtra:
+
+
+06:02:16 -> 06:02:16>>CMND101100
+06:02:16 -> 06:02:16>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 2
+	lpszExtra:
+
+
+06:02:59 -> 06:02:59>>CMND101000
+06:02:59 -> 06:02:59>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return 0
+
+06:03:08 -> 06:03:08>>CMND100400
+06:03:08 -> 06:03:08>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:03:22 -> 06:03:22>>CMND100500
+06:03:22 -> 06:03:22>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:03:24 -> 06:03:24>>CMND100901
+06:03:24 -> 06:03:24>>WFS_CMD_CIM_CASH_IN_END:
+return -1326
+		CIM Error WFS_ERR_CIM_NOCASHINACTIVE
+
+06:03:27 -> 06:03:27>>Service stopped.
+06:05:41 -> 06:05:41>>Logger created.
+06:05:41 -> Properties successfully retrieved from the registry.
+06:05:41 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+06:05:41 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+06:05:41 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+06:05:41 -> KTR10 Open First Check Attempt.
+06:06:08 -> 06:06:08>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+06:06:13 -> 06:06:13>>CMND100700
+06:06:13 -> 06:06:13>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+06:06:14 -> 06:06:14>>CMND100400
+06:06:14 -> 06:06:14>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:06:29 -> 06:06:29>>CMND100500
+06:06:29 -> 06:06:29>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:06:37 -> 06:06:37>>CMND100400
+06:06:37 -> 06:06:37>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:06:50 -> 06:06:50>>CMND100500
+06:06:50 -> 06:06:50>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:07:04 -> 06:07:04>>CMND100800
+06:07:04 -> 06:07:04>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+06:07:05 -> 06:07:05>>CMND101100
+06:07:05 -> 06:07:05>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 2
+	lpszExtra:
+
+
+06:07:56 -> 06:07:56>>CMND101100
+06:07:56 -> 06:07:56>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 2
+	lpszExtra:
+
+
+06:09:44 -> 06:09:44>>CMND101100
+06:09:44 -> 06:09:44>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 2
+	lpszExtra:
+
+
+06:11:03 -> 06:11:03>>CMND101500
+06:11:03 -> 06:11:03>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+06:11:06 -> 06:11:06>>CMND101100
+06:11:06 -> 06:11:06>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 2
+	lpszExtra:
+
+
+06:11:48 -> 06:11:48>>CMND101100
+06:11:48 -> 06:11:48>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 2
+	lpszExtra:
+
+
+06:15:50 -> 06:15:50>>CMND101100
+06:15:50 -> 06:15:50>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 2
+	lpszExtra:
+
+
+06:16:40 -> 06:16:40>>CMND101000
+06:16:40 -> 06:16:40>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return 0
+
+06:16:42 -> 06:16:42>>CMND100400
+06:16:42 -> 06:16:42>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:16:47 -> 06:16:47>>CMND100500
+06:16:47 -> 06:16:47>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:16:54 -> 06:16:54>>CMND100400
+06:16:54 -> 06:16:54>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:16:59 -> 06:16:59>>CMND100500
+06:16:59 -> 06:16:59>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:17:00 -> 06:17:00>>CMND101100
+06:17:00 -> 06:17:00>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 1
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 2
+	lpszExtra:
+
+
+06:17:07 -> 06:17:07>>CMND100801
+06:17:07 -> 06:17:07>>WFS_CMD_CIM_CASH_IN:
+return -1326
+		CIM Error WFS_ERR_CIM_NOCASHINACTIVE
+
+06:17:15 -> 06:17:15>>CMND100801
+06:17:15 -> 06:17:15>>WFS_CMD_CIM_CASH_IN:
+return -1326
+		CIM Error WFS_ERR_CIM_NOCASHINACTIVE
+
+06:17:18 -> 06:17:18>>CMND101100
+06:17:18 -> 06:17:18>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 1
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 2
+	lpszExtra:
+
+
+06:17:33 -> 06:17:33>>CMND101001
+06:17:33 -> 06:17:33>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return -1326
+		CIM Error WFS_ERR_CIM_NOCASHINACTIVE
+
+06:17:35 -> 06:17:35>>CMND100400
+06:17:35 -> 06:17:35>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:17:41 -> 06:17:41>>CMND100500
+06:17:41 -> 06:17:41>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:18:02 -> 06:18:02>>CMND101200
+06:18:02 -> 06:18:02>>WFS_CMD_CIM_RESET
+return  0
+
+06:18:05 -> 06:18:05>>CMND100700
+06:18:05 -> 06:18:05>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+06:18:07 -> 06:18:07>>CMND100400
+06:18:07 -> 06:18:07>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:18:12 -> 06:18:12>>CMND100500
+06:18:12 -> 06:18:12>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:18:20 -> 06:18:20>>CMND100800
+06:18:20 -> 06:18:20>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+06:18:21 -> 06:18:21>>CMND101100
+06:18:21 -> 06:18:21>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+	lpszExtra:
+
+
+06:18:33 -> 06:18:33>>CMND101100
+06:18:33 -> 06:18:33>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+	lpszExtra:
+
+
+06:18:43 -> 06:18:43>>CMND100800
+06:18:43 -> 06:18:43>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+06:18:50 -> 06:18:50>>CMND100400
+06:18:50 -> 06:18:50>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:18:59 -> 06:18:59>>CMND100500
+06:18:59 -> 06:18:59>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:19:05 -> 06:19:05>>CMND100400
+06:19:05 -> 06:19:05>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:19:09 -> 06:19:09>>CMND100500
+06:19:09 -> 06:19:09>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:19:22 -> 06:19:22>>CMND100800
+06:19:22 -> 06:19:22>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+06:19:23 -> 06:19:23>>CMND101100
+06:19:23 -> 06:19:23>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+	lpszExtra:
+
+
+06:19:38 -> 06:19:38>>CMND101000
+06:19:38 -> 06:19:38>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return 0
+
+06:19:40 -> 06:19:40>>CMND100400
+06:19:40 -> 06:19:40>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:19:46 -> 06:19:46>>CMND100500
+06:19:46 -> 06:19:46>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:20:06 -> 06:20:06>>CMND101200
+06:20:06 -> 06:20:06>>WFS_CMD_CIM_RESET
+return  0
+
+06:20:10 -> 06:20:10>>CMND100700
+06:20:10 -> 06:20:10>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+06:20:12 -> 06:20:12>>CMND100400
+06:20:12 -> 06:20:12>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:20:18 -> 06:20:18>>CMND100500
+06:20:18 -> 06:20:18>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:20:32 -> 06:20:32>>CMND100800
+06:20:32 -> 06:20:32>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+06:20:33 -> 06:20:33>>CMND101100
+06:20:33 -> 06:20:33>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+	lpszExtra:
+
+
+06:20:53 -> 06:20:53>>CMND101000
+06:20:53 -> 06:20:53>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return 0
+
+06:20:54 -> 06:20:54>>CMND100400
+06:20:54 -> 06:20:54>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:21:03 -> 06:21:03>>CMND100500
+06:21:03 -> 06:21:03>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:24:03 -> 06:24:03>>Service stopped.
+06:24:19 -> 06:24:19>>Logger created.
+06:24:19 -> Properties successfully retrieved from the registry.
+06:24:19 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+06:24:19 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+06:24:19 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+06:24:19 -> KTR10 Open First Check Attempt.
+06:24:42 -> 06:24:42>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+06:24:46 -> 06:24:46>>CMND100700
+06:24:46 -> 06:24:46>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+06:24:48 -> 06:24:48>>CMND100400
+06:24:48 -> 06:24:48>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:24:54 -> 06:24:54>>CMND100500
+06:24:54 -> 06:24:54>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:25:08 -> 06:25:08>>CMND100800
+06:25:08 -> 06:25:08>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+06:25:09 -> 06:25:09>>CMND101100
+06:25:09 -> 06:25:09>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 3:
+		lppNoteNumber:
+			usNoteID = 5190
+			ulCount = 1
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 2
+	lpszExtra:
+
+
+06:25:40 -> 06:25:40>>CMND101800
+06:25:40 -> 06:25:40>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(5)-
+	ItemsList[
+	usLevel(3)-usNoteID(5187)-lpszSerialNumber(C041835783)-lpszImageFileName(C:\R10\Image\20180326\182455\C041835783_20180326182455_00003.jpg)
+	usLevel(4)-usNoteID(5190)-lpszSerialNumber(B154611678)-lpszImageFileName(C:\R10\Image\20180326\182455\B154611678_20180326182455_00001.jpg)
+	usLevel(4)-usNoteID(5189)-lpszSerialNumber(B320210418)-lpszImageFileName(C:\R10\Image\20180326\182455\B320210418_20180326182455_00002.jpg)
+	usLevel(4)-usNoteID(5188)-lpszSerialNumber(B421663983)-lpszImageFileName(C:\R10\Image\20180326\182455\B421663983_20180326182455_00004.jpg)
+	usLevel(4)-usNoteID(5188)-lpszSerialNumber(C169123063)-lpszImageFileName(C:\R10\Image\20180326\182455\C169123063_20180326182455_00005.jpg)]
+06:25:46 -> 06:25:46>>CMND101500
+06:25:46 -> 06:25:46>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+06:25:50 -> 06:25:50>>CMND101100
+06:25:50 -> 06:25:50>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 3:
+		lppNoteNumber:
+			usNoteID = 5190
+			ulCount = 1
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 2
+	lpszExtra:
+
+
+06:26:11 -> 06:26:11>>CMND101000
+06:26:11 -> 06:26:11>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return 0
+
+06:26:13 -> 06:26:13>>CMND100400
+06:26:13 -> 06:26:13>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:26:19 -> 06:26:19>>CMND100500
+06:26:19 -> 06:26:19>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:26:20 -> 06:26:20>>Service stopped.
+06:30:10 -> 06:30:10>>Logger created.
+06:30:10 -> Properties successfully retrieved from the registry.
+06:30:10 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+06:30:10 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+06:30:10 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+06:30:10 -> KTR10 Open First Check Attempt.
+06:30:34 -> 06:30:34>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+06:30:35 -> 06:30:35>>CMND101800
+06:30:35 -> 06:30:35>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(0)-
+	ItemsList[]
+06:30:36 -> 06:30:36>>CMND101500
+06:30:36 -> 06:30:36>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+06:30:40 -> 06:30:40>>CMND100700
+06:30:40 -> 06:30:40>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+06:30:42 -> 06:30:42>>CMND100400
+06:30:42 -> 06:30:42>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:30:51 -> 06:30:51>>CMND100500
+06:30:51 -> 06:30:51>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:31:05 -> 06:31:05>>CMND100800
+06:31:05 -> 06:31:05>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+06:31:06 -> 06:31:06>>CMND101100
+06:31:06 -> 06:31:06>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 3:
+		lppNoteNumber:
+			usNoteID = 5188
+			ulCount = 2
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5190
+			ulCount = 1
+	lpszExtra:
+
+
+06:32:18 -> 06:32:18>>CMND101100
+06:32:18 -> 06:32:18>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 3:
+		lppNoteNumber:
+			usNoteID = 5188
+			ulCount = 2
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5190
+			ulCount = 1
+	lpszExtra:
+
+
+06:36:30 -> 06:36:30>>CMND101000
+06:36:30 -> 06:36:30>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return 0
+
+06:36:37 -> 06:36:37>>CMND100400
+06:36:37 -> 06:36:37>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:36:45 -> 06:36:45>>CMND100500
+06:36:45 -> 06:36:45>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:37:22 -> 06:37:22>>CMND101500
+06:37:22 -> 06:37:22>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+06:38:28 -> 06:38:28>>Service stopped.
+06:39:09 -> 06:39:09>>Logger created.
+06:39:09 -> Properties successfully retrieved from the registry.
+06:39:09 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+06:39:09 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+06:39:09 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+06:39:09 -> KTR10 Open First Check Attempt.
+06:39:32 -> 06:39:32>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+06:39:33 -> 06:39:33>>CMND101500
+06:39:33 -> 06:39:33>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+06:39:36 -> 06:39:36>>CMND100700
+06:39:36 -> 06:39:36>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+06:39:38 -> 06:39:38>>CMND100400
+06:39:38 -> 06:39:38>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:39:44 -> 06:39:44>>CMND100500
+06:39:44 -> 06:39:44>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:39:57 -> 06:39:57>>CMND100800
+06:39:57 -> 06:39:57>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+06:39:58 -> 06:39:58>>CMND101100
+06:39:58 -> 06:39:58>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 3:
+		lppNoteNumber:
+			usNoteID = 5188
+			ulCount = 1
+			usNoteID = 5190
+			ulCount = 1
+			usNoteID = 5189
+			ulCount = 1
+	lpszExtra:
+
+
+06:40:28 -> 06:40:28>>CMND100400
+06:40:28 -> 06:40:28>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:40:35 -> 06:40:35>>CMND100500
+06:40:35 -> 06:40:35>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:40:48 -> 06:40:48>>CMND100800
+06:40:48 -> 06:40:48>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+06:40:49 -> 06:40:49>>CMND101100
+06:40:49 -> 06:40:49>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 3:
+		lppNoteNumber:
+			usNoteID = 5188
+			ulCount = 2
+			usNoteID = 5190
+			ulCount = 1
+			usNoteID = 5189
+			ulCount = 1
+	lpszExtra:
+
+
+06:41:02 -> 06:41:02>>CMND101000
+06:41:02 -> 06:41:02>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return 0
+
+06:41:08 -> 06:41:08>>CMND100400
+06:41:08 -> 06:41:08>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:41:15 -> 06:41:15>>CMND100500
+06:41:15 -> 06:41:15>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:50:30 -> 06:50:30>>Logger created.
+06:50:30 -> Properties successfully retrieved from the registry.
+06:50:30 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+06:50:30 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+06:50:30 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+06:50:30 -> KTR10 Open First Check Attempt.
+06:50:34 -> 06:50:34>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+06:50:49 -> 06:50:49>>Service stopped.
+06:51:07 -> 06:51:07>>Logger created.
+06:51:07 -> Properties successfully retrieved from the registry.
+06:51:07 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+06:51:07 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+06:51:07 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+06:51:07 -> KTR10 Open First Check Attempt.
+06:51:29 -> 06:51:29>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+06:51:31 -> 06:51:31>>CMND101500
+06:51:31 -> 06:51:31>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+06:51:36 -> 06:51:36>>CMND100700
+06:51:36 -> 06:51:36>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+06:51:38 -> 06:51:38>>CMND100400
+06:51:38 -> 06:51:38>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:51:44 -> 06:51:44>>CMND100500
+06:51:44 -> 06:51:44>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:51:57 -> 06:51:57>>CMND100800
+06:51:57 -> 06:51:57>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+06:52:04 -> 06:52:04>>CMND101100
+06:52:04 -> 06:52:04>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5190
+			ulCount = 1
+			usNoteID = 5189
+			ulCount = 1
+	lpszExtra:
+
+
+06:52:10 -> 06:52:10>>CMND100400
+06:52:10 -> 06:52:10>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:52:19 -> 06:52:19>>CMND100500
+06:52:19 -> 06:52:19>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:52:33 -> 06:52:33>>CMND100800
+06:52:33 -> 06:52:33>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+06:52:34 -> 06:52:34>>CMND100400
+06:52:34 -> 06:52:34>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:52:35 -> 06:52:35>>CMND101100
+06:52:35 -> 06:52:35>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 3:
+		lppNoteNumber:
+			usNoteID = 5190
+			ulCount = 1
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+06:52:54 -> 06:52:54>>CMND100500
+06:52:54 -> 06:52:54>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:52:56 -> 06:52:56>>CMND101100
+06:52:56 -> 06:52:56>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 3:
+		lppNoteNumber:
+			usNoteID = 5190
+			ulCount = 1
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+06:53:13 -> 06:53:13>>CMND100400
+06:53:13 -> 06:53:13>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:53:18 -> 06:53:18>>CMND100500
+06:53:18 -> 06:53:18>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:53:31 -> 06:53:31>>CMND100800
+06:53:31 -> 06:53:31>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+06:53:32 -> 06:53:32>>CMND101100
+06:53:32 -> 06:53:32>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 3:
+		lppNoteNumber:
+			usNoteID = 5190
+			ulCount = 1
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 2
+	lpszExtra:
+
+
+06:53:51 -> 06:53:51>>CMND101000
+06:53:51 -> 06:53:51>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return 0
+
+06:53:59 -> 06:53:59>>CMND100400
+06:53:59 -> 06:53:59>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:54:01 -> 06:54:01>>CMND100400
+06:54:01 -> 06:54:01>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+06:54:06 -> 06:54:06>>CMND100500
+06:54:06 -> 06:54:06>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+06:54:26 -> 06:54:26>>CMND101200
+06:54:26 -> 06:54:26>>WFS_CMD_CIM_RESET
+return  0
+
+06:54:26 -> 06:54:26>>Service stopped.

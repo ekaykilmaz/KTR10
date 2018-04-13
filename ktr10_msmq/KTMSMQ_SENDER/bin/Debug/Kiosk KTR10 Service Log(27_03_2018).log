@@ -1,0 +1,1785 @@
+10:47:19 -> 10:47:19>>Logger created.
+10:47:19 -> Properties successfully retrieved from the registry.
+10:47:19 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+10:47:19 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+10:47:19 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+10:47:19 -> KTR10 Open First Check Attempt.
+10:47:46 -> 10:47:46>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+10:47:50 -> 10:47:50>>CMND100700
+10:47:50 -> 10:47:50>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+10:47:52 -> 10:47:52>>CMND100400
+10:47:52 -> 10:47:52>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+10:48:00 -> 10:48:00>>CMND100500
+10:48:00 -> 10:48:00>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+10:48:15 -> 10:48:15>>CMND100800
+10:48:15 -> 10:48:15>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+10:48:16 -> 10:48:16>>CMND101500
+10:48:16 -> 10:48:16>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+10:48:21 -> 10:48:21>>CMND101100
+10:48:21 -> 10:48:21>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+10:48:27 -> 10:48:27>>CMND101800
+10:48:27 -> 10:48:27>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(2)-
+	ItemsList[
+	usLevel(4)-usNoteID(5189)-lpszSerialNumber(B320210418)-lpszImageFileName(C:\R10\Image\20180327\104804\B320210418_20180327104804_00001.jpg)
+	usLevel(4)-usNoteID(5188)-lpszSerialNumber(C169123063)-lpszImageFileName(C:\R10\Image\20180327\104804\C169123063_20180327104804_00002.jpg)]
+10:56:32 -> 10:56:32>>CMND101000
+10:56:32 -> 10:56:32>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return 0
+
+10:56:34 -> 10:56:34>>CMND100400
+10:56:34 -> 10:56:34>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+10:56:36 -> 10:56:36>>CMND100400
+10:56:36 -> 10:56:36>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+10:56:41 -> 10:56:41>>CMND100500
+10:56:41 -> 10:56:41>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+10:56:46 -> 10:56:46>>Service stopped.
+11:08:01 -> 11:08:01>>Logger created.
+11:08:01 -> Properties successfully retrieved from the registry.
+11:08:01 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+11:08:01 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+11:08:01 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+11:08:01 -> KTR10 Open First Check Attempt.
+11:08:23 -> 11:08:23>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+11:08:24 -> 11:08:24>>CMND101500
+11:08:24 -> 11:08:24>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+11:08:28 -> 11:08:28>>CMND100700
+11:08:28 -> 11:08:28>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+11:08:29 -> 11:08:29>>CMND100400
+11:08:29 -> 11:08:29>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+11:08:38 -> 11:08:38>>CMND100500
+11:08:38 -> 11:08:38>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+11:08:51 -> 11:08:51>>CMND100800
+11:08:51 -> 11:08:51>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+11:08:56 -> 11:08:56>>CMND101100
+11:08:56 -> 11:08:56>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5188
+			ulCount = 1
+			usNoteID = 5189
+			ulCount = 1
+	lpszExtra:
+
+
+11:09:00 -> 11:09:00>>CMND101800
+11:09:00 -> 11:09:00>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(2)-
+	ItemsList[
+	usLevel(4)-usNoteID(5188)-lpszSerialNumber(C169123053)-lpszImageFileName(C:\R10\Image\20180327\110840\C169123053_20180327110840_00001.jpg)
+	usLevel(4)-usNoteID(5189)-lpszSerialNumber(B320210418)-lpszImageFileName(C:\R10\Image\20180327\110840\B320210418_20180327110840_00002.jpg)]
+11:15:43 -> 11:15:43>>CMND100900
+11:15:43 -> 11:15:43>>WFS_CMD_CIM_CASH_IN_END:
+return 0
+
+11:15:44 -> 11:15:44>>CMND101100
+11:15:44 -> 11:15:44>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 0
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+11:22:12 -> 11:22:12>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+11:22:33 -> 11:22:33>>CMND101200
+11:22:33 -> 11:22:33>>WFS_CMD_CIM_RESET
+return  0
+
+11:22:36 -> 11:22:36>>CMND100700
+11:22:36 -> 11:22:36>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+11:22:37 -> 11:22:37>>CMND101500
+11:22:37 -> 11:22:37>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+11:22:57 -> 11:22:57>>CMND101100
+11:22:57 -> 11:22:57>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+	lpszExtra:
+
+
+11:23:03 -> 11:23:03>>CMND100400
+11:23:03 -> 11:23:03>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+11:23:10 -> 11:23:10>>CMND100500
+11:23:10 -> 11:23:10>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+11:23:24 -> 11:23:24>>CMND100800
+11:23:24 -> 11:23:24>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+11:23:25 -> 11:23:25>>CMND101100
+11:23:25 -> 11:23:25>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+	lpszExtra:
+
+
+11:23:27 -> 11:23:27>>CMND100400
+11:23:27 -> 11:23:27>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+11:23:44 -> 11:23:44>>CMND100500
+11:23:44 -> 11:23:44>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+11:23:53 -> 11:23:53>>CMND100400
+11:23:53 -> 11:23:53>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+11:23:58 -> 11:23:58>>CMND100500
+11:23:58 -> 11:23:58>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+11:23:59 -> 11:23:59>>CMND101100
+11:23:59 -> 11:23:59>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+	lpszExtra:
+
+
+11:24:14 -> 11:24:14>>CMND100800
+11:24:14 -> 11:24:14>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+11:24:21 -> 11:24:21>>CMND101100
+11:24:21 -> 11:24:21>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+11:24:40 -> 11:24:40>>CMND101000
+11:24:40 -> 11:24:40>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return 0
+
+11:24:41 -> 11:24:41>>CMND101100
+11:24:41 -> 11:24:41>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 1
+	usNumOfRefused = 1
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+11:24:43 -> 11:24:43>>CMND100400
+11:24:43 -> 11:24:43>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+11:24:59 -> 11:24:59>>CMND100500
+11:24:59 -> 11:24:59>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:00:12 -> 12:00:12>>Logger created.
+12:00:12 -> Properties successfully retrieved from the registry.
+12:00:12 -> Local queue Name:  .\private$\KTRRQ for reading already exists. No need to create.
+12:00:12 -> Local queue  Name:  .\private$\KTRWQ for writing already exists. No need to create.
+12:00:12 -> Local queue  Name: .\private$\KTRLQ for logging already exists. No need to create.
+12:00:12 -> KTR10 Open First Check Attempt.
+12:00:20 -> 12:00:20>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+12:00:27 -> 12:00:27>>WFS_INF_CIM_STATUS:
+
+12:00:27 -> 12:00:27>>CMND100300
+12:00:27 -> 12:00:27>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003ee
+	Desc=Unknown
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=000003ee
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d3 fe d3 fe d2 fe 52 fe d2 ff ff 
+12:01:04 -> 12:01:04>>CMND101200
+12:01:04 -> 12:01:04>>WFS_CMD_CIM_RESET
+return  0
+
+12:01:05 -> 12:01:05>>WFS_INF_CIM_STATUS:
+
+12:01:05 -> 12:01:05>>CMND100300
+12:01:05 -> 12:01:05>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0000
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d3 fe d3 fe d2 fe 52 fe d2 ff ff 
+12:01:14 -> 12:01:14>>CMND100700
+12:01:14 -> 12:01:14>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+12:01:20 -> 12:01:20>>CMND100400
+12:01:20 -> 12:01:20>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:01:29 -> 12:01:29>>CMND100500
+12:01:29 -> 12:01:29>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:01:48 -> 12:01:48>>CMND100800
+12:01:48 -> 12:01:48>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+12:01:50 -> 12:01:50>>CMND100400
+12:01:50 -> 12:01:50>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:01:55 -> 12:01:55>>CMND101100
+12:01:55 -> 12:01:55>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+	lpszExtra:
+
+
+12:02:17 -> 12:02:17>>CMND100400
+12:02:17 -> 12:02:17>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:02:20 -> 12:02:20>>CMND100500
+12:02:20 -> 12:02:20>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:02:23 -> 12:02:23>>CMND100400
+12:02:23 -> 12:02:23>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:02:30 -> 12:02:30>>CMND100500
+12:02:30 -> 12:02:30>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:02:49 -> 12:02:49>>CMND100800
+12:02:49 -> 12:02:49>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+12:02:50 -> 12:02:50>>CMND101500
+12:02:50 -> 12:02:50>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+12:02:52 -> 12:02:52>>CMND101100
+12:02:52 -> 12:02:52>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+12:03:05 -> 12:03:05>>CMND101000
+12:03:05 -> 12:03:05>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return 0
+
+12:03:07 -> 12:03:07>>CMND100400
+12:03:07 -> 12:03:07>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:03:08 -> 12:03:08>>CMND100400
+12:03:08 -> 12:03:08>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:03:15 -> 12:03:15>>CMND100500
+12:03:15 -> 12:03:15>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:03:18 -> 12:03:18>>CMND100400
+12:03:18 -> 12:03:18>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:03:24 -> 12:03:24>>CMND100500
+12:03:24 -> 12:03:24>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:03:26 -> 12:03:26>>CMND100801
+12:03:26 -> 12:03:26>>WFS_CMD_CIM_CASH_IN:
+return -1326
+		CIM Error WFS_ERR_CIM_NOCASHINACTIVE
+
+12:03:34 -> 12:03:34>>CMND100801
+12:03:34 -> 12:03:34>>WFS_CMD_CIM_CASH_IN:
+return -1326
+		CIM Error WFS_ERR_CIM_NOCASHINACTIVE
+
+12:03:36 -> 12:03:36>>CMND100701
+12:03:36 -> 12:03:36>>WFS_CMD_CIM_CASH_IN_START:
+return -1328
+		CIM Error WFS_ERR_CIM_POSITION_NOT_EMPTY
+
+12:03:50 -> 12:03:50>>CMND100400
+12:03:50 -> 12:03:50>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:03:56 -> 12:03:56>>CMND100500
+12:03:56 -> 12:03:56>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:04:00 -> 12:04:00>>CMND100700
+12:04:00 -> 12:04:00>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+12:04:06 -> 12:04:06>>CMND100400
+12:04:06 -> 12:04:06>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:04:10 -> 12:04:10>>CMND100500
+12:04:10 -> 12:04:10>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:04:24 -> 12:04:24>>CMND100800
+12:04:24 -> 12:04:24>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+12:04:25 -> 12:04:25>>CMND101100
+12:04:25 -> 12:04:25>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 1:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+	lpszExtra:
+
+
+12:04:31 -> 12:04:31>>CMND100400
+12:04:31 -> 12:04:31>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:04:37 -> 12:04:37>>CMND100500
+12:04:37 -> 12:04:37>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:04:49 -> 12:04:49>>CMND100800
+12:04:49 -> 12:04:49>>WFS_CMD_CIM_CASH_IN:
+return 0
+
+12:04:50 -> 12:04:50>>CMND101100
+12:04:50 -> 12:04:50>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+12:04:51 -> 12:04:51>>CMND101800
+12:04:51 -> 12:04:51>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(1)-
+	ItemsList[
+	usLevel(4)-usNoteID(5188)-lpszSerialNumber(C169123063)-lpszImageFileName(C:\R10\Image\20180327\120438\C169123063_20180327120438_00001.jpg)]
+12:05:15 -> 12:05:15>>CMND101100
+12:05:15 -> 12:05:15>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 2
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+12:05:18 -> 12:05:18>>CMND101800
+12:05:18 -> 12:05:18>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(0)-
+	ItemsList[]
+12:05:58 -> 12:05:58>>CMND100900
+12:05:58 -> 12:05:58>>WFS_CMD_CIM_CASH_IN_END:
+return 0
+
+12:06:11 -> 12:06:11>>CMND101001
+12:06:11 -> 12:06:11>>WFS_CMD_CIM_CASH_IN_ROLLBACK:
+return -1326
+		CIM Error WFS_ERR_CIM_NOCASHINACTIVE
+
+12:07:22 -> 12:07:22>>CMND101800
+12:07:22 -> 12:07:22>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(2)-
+	ItemsList[
+	usLevel(4)-usNoteID(5189)-lpszSerialNumber(B320210418)-lpszImageFileName(C:\R10\Image\20180327\120543\B320210418_20180327120543_00001.jpg)
+	usLevel(4)-usNoteID(5188)-lpszSerialNumber(C169123063)-lpszImageFileName(C:\R10\Image\20180327\120543\C169123063_20180327120543_00002.jpg)]
+12:08:02 -> 12:08:02>>CMND101100
+12:08:02 -> 12:08:02>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 0
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+12:08:14 -> 12:08:14>>CMND101800
+12:08:14 -> 12:08:14>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(0)-
+	ItemsList[]
+12:08:27 -> 12:08:27>>CMND101100
+12:08:27 -> 12:08:27>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 0
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5189
+			ulCount = 1
+			usNoteID = 5188
+			ulCount = 1
+	lpszExtra:
+
+
+12:08:29 -> 12:08:29>>CMND101800
+12:08:29 -> 12:08:29>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(0)-
+	ItemsList[]
+12:08:54 -> 12:08:54>>WFS_INF_CIM_STATUS:
+
+12:08:54 -> 12:08:54>>CMND100300
+12:08:54 -> 12:08:54>>WFS_INF_CIM_STATUS:
+	fwDevice:0001
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0004
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+
+	fwPosition=4096
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003ec
+	Desc=Í¨ÐÅÊ§°Ü
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=000003ec
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d3 fe d3 fe d2 fe 52 fe d2 ff ff 
+12:08:56 -> 12:08:56>>WFS_INF_CIM_STATUS:
+
+12:08:56 -> 12:08:56>>CMND100300
+12:08:56 -> 12:08:56>>WFS_INF_CIM_STATUS:
+	fwDevice:0001
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0004
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+
+	fwPosition=4096
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003ec
+	Desc=Í¨ÐÅÊ§°Ü
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=000003ec
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d3 fe d3 fe d2 fe 52 fe d2 ff ff 
+12:08:57 -> 12:08:57>>WFS_INF_CIM_STATUS:
+
+12:08:57 -> 12:08:57>>CMND100300
+12:08:57 -> 12:08:57>>WFS_INF_CIM_STATUS:
+	fwDevice:0001
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0004
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+
+	fwPosition=4096
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003ec
+	Desc=Í¨ÐÅÊ§°Ü
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=000003ec
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d3 fe d3 fe d2 fe 52 fe d2 ff ff 
+12:08:59 -> 12:08:59>>WFS_INF_CIM_STATUS:
+
+12:08:59 -> 12:08:59>>CMND100300
+12:08:59 -> 12:08:59>>WFS_INF_CIM_STATUS:
+	fwDevice:0001
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0004
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+
+	fwPosition=4096
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003ec
+	Desc=Í¨ÐÅÊ§°Ü
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=000003ec
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d3 fe d3 fe d2 fe 52 fe d2 ff ff 
+12:09:00 -> 12:09:00>>WFS_INF_CIM_STATUS:
+
+12:09:00 -> 12:09:00>>CMND100300
+12:09:00 -> 12:09:00>>WFS_INF_CIM_STATUS:
+	fwDevice:0001
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0004
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+
+	fwPosition=4096
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003ec
+	Desc=Í¨ÐÅÊ§°Ü
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=000003ec
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d3 fe d3 fe d2 fe 52 fe d2 ff ff 
+12:09:01 -> 12:09:01>>WFS_INF_CIM_STATUS:
+
+12:09:01 -> 12:09:01>>CMND100300
+12:09:01 -> 12:09:01>>WFS_INF_CIM_STATUS:
+	fwDevice:0001
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0004
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+
+	fwPosition=4096
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003ec
+	Desc=Í¨ÐÅÊ§°Ü
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=000003ec
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d3 fe d3 fe d2 fe 52 fe d2 ff ff 
+12:09:02 -> 12:09:02>>WFS_INF_CIM_STATUS:
+
+12:09:02 -> 12:09:02>>CMND100300
+12:09:02 -> 12:09:02>>WFS_INF_CIM_STATUS:
+	fwDevice:0001
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0004
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+
+	fwPosition=4096
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003ec
+	Desc=Í¨ÐÅÊ§°Ü
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=000003ec
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d3 fe d3 fe d2 fe 52 fe d2 ff ff 
+12:09:29 -> 12:09:29>>CMND101200
+12:09:29 -> 12:09:29>>WFS_CMD_CIM_RESET
+return  0
+
+12:09:30 -> 12:09:30>>WFSVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0101
+	wHighVersion: 0x9903
+	szDescription: WOSA/XFS API v3.00/v2.00
+	szSystemStatus: 
+SrvcVersion: 
+	wVersion: 0x0003
+	wLowVersion: 0x0003
+	wHighVersion: 0x0003
+	szDescription: 
+	szSystemStatus: 
+SPIVersion: 
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: 0x0003
+	wVersion: KT_SPI V2.00
+	wVersion: 
+
+12:09:33 -> 12:09:33>>CMND101500
+12:09:33 -> 12:09:33>>WFS_INF_CIM_BANKNOTE_TYPES :
+ return :0
+	usNumOfNoteTypes = 27
+		usNoteID	= 5153
+		cCurrencyID	= TRY
+		ulValues	= 1
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5155
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2005
+		bConfigured	= 0
+		usNoteID	= 5156
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5157
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5158
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5159
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 5187
+		cCurrencyID	= TRY
+		ulValues	= 5
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 5188
+		cCurrencyID	= TRY
+		ulValues	= 10
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5189
+		cCurrencyID	= TRY
+		ulValues	= 20
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5190
+		cCurrencyID	= TRY
+		ulValues	= 50
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5191
+		cCurrencyID	= TRY
+		ulValues	= 100
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 5192
+		cCurrencyID	= TRY
+		ulValues	= 200
+		usRelease	= 2009
+		bConfigured	= 0
+		usNoteID	= 4204
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2013
+		bConfigured	= 1
+		usNoteID	= 4206
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4207
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4210
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2015
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 1000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4139
+		cCurrencyID	= IRR
+		ulValues	= 2000
+		usRelease	= 2000
+		bConfigured	= 1
+		usNoteID	= 4140
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 1993
+		bConfigured	= 1
+		usNoteID	= 4141
+		cCurrencyID	= IRR
+		ulValues	= 10000
+		usRelease	= 1992
+		bConfigured	= 1
+		usNoteID	= 4142
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2005
+		bConfigured	= 1
+		usNoteID	= 4172
+		cCurrencyID	= IRR
+		ulValues	= 5000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4174
+		cCurrencyID	= IRR
+		ulValues	= 20000
+		usRelease	= 2009
+		bConfigured	= 1
+		usNoteID	= 4175
+		cCurrencyID	= IRR
+		ulValues	= 50000
+		usRelease	= 2007
+		bConfigured	= 1
+		usNoteID	= 4176
+		cCurrencyID	= IRR
+		ulValues	= 100000
+		usRelease	= 2010
+		bConfigured	= 1
+		usNoteID	= 4178
+		cCurrencyID	= IRR
+		ulValues	= 500000
+		usRelease	= 2008
+		bConfigured	= 1
+		usNoteID	= 4179
+		cCurrencyID	= IRR
+		ulValues	= 1000000
+		usRelease	= 2010
+		bConfigured	= 1
+
+12:09:36 -> 12:09:36>>CMND101100
+12:09:36 -> 12:09:36>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 0
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+	lpszExtra:
+
+
+12:09:38 -> 12:09:38>>CMND101800
+12:09:38 -> 12:09:38>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(0)-
+	ItemsList[]
+12:09:40 -> 12:09:40>>CMND101800
+12:09:40 -> 12:09:40>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(0)-
+	ItemsList[]
+12:10:10 -> 12:10:10>>CMND100701
+12:10:10 -> 12:10:10>>WFS_CMD_CIM_CASH_IN_START:
+return -1302
+		CIM Error WFS_ERR_CIM_CASHUNITERROR
+
+12:10:29 -> 12:10:29>>WFS_INF_CIM_STATUS:
+
+12:10:29 -> 12:10:29>>CMND100300
+12:10:29 -> 12:10:29>>WFS_INF_CIM_STATUS:
+	fwDevice:0000
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0000
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+
+	fwPosition=4096
+	fwShutter=0
+	fwTransportStatus= 0
+	fwTransport=0
+	szExtra: 
+	Location=CIM
+	Level=Success
+	ErrorCode=00000000
+	Desc=Success
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=00000000
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d3 fe d3 fe d2 fe 52 fe d2 ff ff 
+12:10:34 -> 12:10:34>>CMND101100
+12:10:34 -> 12:10:34>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 0
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 0:
+		lppNoteNumber:
+	lpszExtra:
+
+
+12:10:36 -> 12:10:36>>CMND100701
+12:10:36 -> 12:10:36>>WFS_CMD_CIM_CASH_IN_START:
+return -1302
+		CIM Error WFS_ERR_CIM_CASHUNITERROR
+
+12:10:48 -> 12:10:48>>CMND100400
+12:10:48 -> 12:10:48>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:10:50 -> 12:10:50>>CMND100500
+12:10:50 -> 12:10:50>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:10:52 -> 12:10:52>>CMND100701
+12:10:52 -> 12:10:52>>WFS_CMD_CIM_CASH_IN_START:
+return -1302
+		CIM Error WFS_ERR_CIM_CASHUNITERROR
+
+12:11:15 -> 12:11:15>>CMND101200
+12:11:15 -> 12:11:15>>WFS_CMD_CIM_RESET
+return  0
+
+12:11:23 -> 12:11:23>>CMND100700
+12:11:23 -> 12:11:23>>WFS_CMD_CIM_CASH_IN_START:
+return 0
+
+12:11:27 -> 12:11:27>>CMND100400
+12:11:27 -> 12:11:27>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:11:35 -> 12:11:35>>CMND100500
+12:11:35 -> 12:11:35>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:11:55 -> 12:11:55>>CMND101300
+12:11:55 -> 12:11:55>>WFS_CMD_CIM_RETRACT:
+return 0
+
+12:11:56 -> 12:11:56>>CMND101100
+12:11:56 -> 12:11:56>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 3
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5188
+			ulCount = 1
+			usNoteID = 5189
+			ulCount = 1
+	lpszExtra:
+
+
+12:12:15 -> 12:12:15>>CMND101800
+12:12:15 -> 12:12:15>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(2)-
+	ItemsList[
+	usLevel(4)-usNoteID(5188)-lpszSerialNumber(C169123063)-lpszImageFileName(C:\R10\Image\20180327\121139\C169123063_20180327121139_00001.jpg)
+	usLevel(4)-usNoteID(5189)-lpszSerialNumber(B320210418)-lpszImageFileName(C:\R10\Image\20180327\121139\B320210418_20180327121139_00002.jpg)]
+12:12:21 -> 12:12:21>>CMND100400
+12:12:21 -> 12:12:21>>WFS_CMD_CIM_OPEN_SHUTTER:
+return  0
+
+12:12:28 -> 12:12:28>>CMND100500
+12:12:28 -> 12:12:28>> WFS_CMD_CIM_CLOSE_SHUTTER:
+return 0
+
+12:12:31 -> 12:12:31>>CMND100901
+12:12:31 -> 12:12:31>>WFS_CMD_CIM_CASH_IN_END:
+return -1326
+		CIM Error WFS_ERR_CIM_NOCASHINACTIVE
+
+12:12:38 -> 12:12:38>>CMND101100
+12:12:38 -> 12:12:38>>WFS_INF_CIM_CASH_IN_STATUS:
+return :0
+	wStatus = 3
+	usNumOfRefused = 0
+	lpNoteNumberList:
+		usNumOfNoteNumbers = 2:
+		lppNoteNumber:
+			usNoteID = 5188
+			ulCount = 1
+			usNoteID = 5189
+			ulCount = 1
+	lpszExtra:
+
+
+12:12:42 -> 12:12:42>>CMND101800
+12:12:42 -> 12:12:42>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(0)-
+	ItemsList[]
+12:12:45 -> 12:12:45>>CMND101800
+12:12:45 -> 12:12:45>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(0)-
+	ItemsList[]
+12:12:46 -> 12:12:46>>CMND101800
+12:12:46 -> 12:12:46>>WFS_INF_CIM_GET_ITEMS_INFO: return :0
+	usCount(0)-
+	ItemsList[]
+12:20:31 -> 12:20:31>>CMND101700
+12:20:31 -> 12:20:31>>WFS_INF_CIM_CURRENCY_EXP:
+WFS_INF_CIM_CURRENCY_EXP return :0
+	cCurrencyID	= TRY
+	sExponent	= 0
+
+12:20:57 -> 12:20:57>>CMND101400
+12:20:57 -> 12:20:57>>WFS_INF_CIM_CAPABILITIES:
+WFS_INF_CIM_CAPABILITIES return :0
+	wClass = 13
+	fwType = 1
+	wMaxCashInItems = 300
+	bCompound = 1
+	bShutter = 1
+	bShutterControl = 0
+	bSafeDoor = 1
+	bCashBox = 0
+	bRefill = 0
+	fwIntermediateStacker = 300
+	bItemsTakenSensor = 1
+	bItemsInsertedSensor = 1
+	fwPositions = 4128
+	fwExchangeType = 5
+	fwRetractAreas = 1
+	fwRetractTransportActions = 2
+	fwRetractStackerActions = 3
+
+02:44:16 -> 02:44:16>>WFS_INF_CIM_STATUS:
+
+02:44:16 -> 02:44:16>>CMND100300
+02:44:16 -> 02:44:16>>WFS_INF_CIM_STATUS:
+	fwDevice:0001
+	fwSafeDoor:0004
+	fwDispenser:0002
+	fwIntermediateStacker:0004
+	bDropBox: 
+
+	fwPosition=32
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+
+	fwPosition=4096
+	fwShutter=3
+	fwTransportStatus= 3
+	fwTransport=2
+	szExtra: 
+	Location=CIM
+	Level=Warning
+	ErrorCode=000003ec
+	Desc=Í¨ÐÅÊ§°Ü
+	SPVersion=2.0.5.0
+	DriverVersion=1.0.5.0
+	FirmwareVersion=R10_FW_V1.04R107
+	BvVersion=BV04F019D01BA020
+	LastErrorCode=000003ec
+	SensorCode=ff ff f6 af ef ff ff ff ef ff ff de fd fe d3 fe d3 fe d2 fe 52 fe d2 ff ff 
